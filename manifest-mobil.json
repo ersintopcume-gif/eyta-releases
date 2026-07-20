@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.3",
+  "version": "1.4",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Paket icerikleri artik projenin asansor tipine gore dogru sablonla acilir"
+  "notes": "Dokunma duzeltmeleri, surum gosterimi, kategori sayaclari"
 }
