@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.2",
+  "version": "2.3",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Stok kategori kartlari (Hammadde/Yari Mamul/Ticari/Hirdavat); yari mamulde ozel urunler siparis listesi"
+  "notes": "Proje detay ekrani: ray/halat arasi, kabin olcusu, adres, asansor, agirlik yonu, kapi yonu, montor, durak"
 }
