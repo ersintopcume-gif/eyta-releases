@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.4",
+  "version": "1.5",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Dokunma duzeltmeleri, surum gosterimi, kategori sayaclari"
+  "notes": "Turkce arama duzeltmesi, stok yetersizse tik engeli, SEVK butonu"
 }
