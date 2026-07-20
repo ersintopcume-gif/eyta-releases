@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.6",
+  "version": "1.7",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Urunler sekmesi: kabin karkasi, capraz palanga, taban-tavan, kabin proje listeleri"
+  "notes": "Paket sevkinde stok dusumu (sadece kalemin kendisi, BOM tekrar dusmez)"
 }
