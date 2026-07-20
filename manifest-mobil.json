@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.4",
+  "version": "2.5",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Kasma duzeltmesi + KAT VE KABIN MEKANIZMA grubu + stoktan Projeye Cikis (EK MALZEME)"
+  "notes": "Projeye Cikis birim secici (urunun kendi birimi secili gelir)"
 }
