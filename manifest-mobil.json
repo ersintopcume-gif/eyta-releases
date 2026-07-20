@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.1",
+  "version": "2.2",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Ana ekran kart menu (Stok / Projeler), Urunler stok icinde, guncelleme izin yonlendirmesi"
+  "notes": "Stok kategori kartlari (Hammadde/Yari Mamul/Ticari/Hirdavat); yari mamulde ozel urunler siparis listesi"
 }
