@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.0",
+  "version": "2.1",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "MONTAJ: dogrudan Celik Konstruksiyon / Paket Malzeme; RAY KAPI dogrudan liste"
+  "notes": "Ana ekran kart menu (Stok / Projeler), Urunler stok icinde, guncelleme izin yonlendirmesi"
 }
