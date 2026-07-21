@@ -1,5 +1,5 @@
 {
-  "version": "2.9",
+  "version": "3.0",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Ana menu: STOK / PROJE / REVIZYON - Revizyon listesi + Malzeme Ekle - Projede Malzeme Ekle (paket disi) - Proje detayi yeni alanlar (Tur MRL/MR, Ray Kapi + Montaj montoru ayri)"
+  "notes": "Urun hareket gecmisi (stok girish/cikish listesi) - stok kartina dokun > Hareket Gecmisi"
 }
