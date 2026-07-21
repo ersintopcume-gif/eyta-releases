@@ -1,5 +1,5 @@
 {
-  "version": "2.8",
+  "version": "2.9",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Baglanti dayanikliligi: gecici ag hatalarinda otomatik yeniden deneme (transient failure duzeltildi) · CIKIS — Proje projeye baglanip EK MALZEME'ye ekliyor"
+  "notes": "Ana menu: STOK / PROJE / REVIZYON - Revizyon listesi + Malzeme Ekle - Projede Malzeme Ekle (paket disi) - Proje detayi yeni alanlar (Tur MRL/MR, Ray Kapi + Montaj montoru ayri)"
 }
