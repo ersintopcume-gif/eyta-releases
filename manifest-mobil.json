@@ -1,5 +1,5 @@
 {
-  "version": "3.5",
+  "version": "3.6",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Revizyon malzemesinde Stok Iade: kismi iade (adet girilir; azini kullanip kalanini geri gonderme)"
+  "notes": "Revizyon detayi: Isim/Baslangic/Bitis/Montor icerikte duzenlenir, altta malzeme listesi - Proje tarihleri inline secilir - Montor: Gecmis/Duzenle/Sil - montor adi degisimi projelere yansiyor"
 }
