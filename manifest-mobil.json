@@ -1,5 +1,5 @@
 {
-  "version": "3.3",
+  "version": "3.4",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Revizyona her turden montor atanabilir - Montor performansinda kayda dokun > Duzenle (giris/cikis tarihi degistir)"
+  "notes": "Proje ve revizyona baslangic/bitis tarihi (icerikte Tarihler menusu) - bitis tarihi gecince proje KAPANDI olur"
 }
