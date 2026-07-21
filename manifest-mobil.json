@@ -1,5 +1,5 @@
 {
-  "version": "3.4",
+  "version": "3.5",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Proje ve revizyona baslangic/bitis tarihi (icerikte Tarihler menusu) - bitis tarihi gecince proje KAPANDI olur"
+  "notes": "Revizyon malzemesinde Stok Iade: kismi iade (adet girilir; azini kullanip kalanini geri gonderme)"
 }
