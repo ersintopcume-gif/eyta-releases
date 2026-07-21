@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2026-05-21",
-  "downloadUrl": "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.0/eyta-v1.0.0.zip",
-  "releaseNotes": "İlk yayın — tek dosya dağıtım + otomatik güncelleyici"
+  "version": "1.0.1",
+  "releaseDate": "2026-07-21",
+  "downloadUrl": "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.1/eyta-v1.0.1.zip",
+  "releaseNotes": "Stok sekmelerinde ust toolbar; Stok Hareket cikis turleri (Proje/Uretim/Bakim/Revizyon/Perakende) projeye baglanabiliyor; baglanti retry (transient failure fix)"
 }
