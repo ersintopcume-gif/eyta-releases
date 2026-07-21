@@ -1,5 +1,5 @@
 {
-  "version": "2.7",
+  "version": "2.8",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Projeye Cikis kaldirildi; artik Stok Hareket > CIKIS — Proje icinde proje secilerek EK MALZEME'ye ekleniyor · Stok Hareket cikis turleri (Uretim, Bakim, Revizyon, Perakende) · Stok renkleri, kapi yonu, sadelesen UI"
+  "notes": "Baglanti dayanikliligi: gecici ag hatalarinda otomatik yeniden deneme (transient failure duzeltildi) · CIKIS — Proje projeye baglanip EK MALZEME'ye ekliyor"
 }
