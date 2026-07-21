@@ -1,5 +1,5 @@
 {
-  "version": "3.6",
+  "version": "3.7",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Revizyon detayi: Isim/Baslangic/Bitis/Montor icerikte duzenlenir, altta malzeme listesi - Proje tarihleri inline secilir - Montor: Gecmis/Duzenle/Sil - montor adi degisimi projelere yansiyor"
+  "notes": "Cikis/tarih secicileri bos baslar (Sec...) - Proje icinde Ray Kapi ve Montaj montorune dokununca secilir"
 }
