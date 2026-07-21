@@ -1,5 +1,5 @@
 {
-  "version": "3.2",
+  "version": "3.3",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Revizyona dokununca direkt acilir; icinde Montor/Duzenle/Sil menusu - Montorler MONTAJ/RAY KAPI/REVIZYON basliklari altinda gruplandi"
+  "notes": "Revizyona her turden montor atanabilir - Montor performansinda kayda dokun > Duzenle (giris/cikis tarihi degistir)"
 }
