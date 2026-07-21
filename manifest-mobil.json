@@ -1,5 +1,5 @@
 {
-  "version": "3.8",
+  "version": "3.9",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Ana menu kartlari sade+ortali - Malzeme eklerken birim secimi (adet/metre/kg) - Tarih boslama (x) ve giris>cikis engeli"
+  "notes": "Malzeme eklerken miktar+birim ayni ekranda - Revizyon ve proje ek malzemede Miktar Duzenle ve kismi Stok Iade"
 }
