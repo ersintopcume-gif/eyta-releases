@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
+  "version": "2.7",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Stok Hareket sayfasi (cikis turleri: Proje, Uretim, Bakim, Revizyon, Perakende Musteri Satis) · Stok renkleri (0 kirmizi, <10 turuncu) · Kapi yonu SAGA/SOLA TOPLAR · Proje listesi sadelestirildi · Kartlarda gorseller kaldirildi · Surum ana ekranda"
+  "notes": "Projeye Cikis kaldirildi; artik Stok Hareket > CIKIS — Proje icinde proje secilerek EK MALZEME'ye ekleniyor · Stok Hareket cikis turleri (Uretim, Bakim, Revizyon, Perakende) · Stok renkleri, kapi yonu, sadelesen UI"
 }
