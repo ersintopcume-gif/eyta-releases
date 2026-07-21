@@ -1,5 +1,5 @@
 {
-  "version": "3.7",
+  "version": "3.8",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Cikis/tarih secicileri bos baslar (Sec...) - Proje icinde Ray Kapi ve Montaj montorune dokununca secilir"
+  "notes": "Ana menu kartlari sade+ortali - Malzeme eklerken birim secimi (adet/metre/kg) - Tarih boslama (x) ve giris>cikis engeli"
 }
