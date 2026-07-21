@@ -1,5 +1,5 @@
 {
-  "version": "3.0",
+  "version": "3.1",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Urun hareket gecmisi (stok girish/cikish listesi) - stok kartina dokun > Hareket Gecmisi"
+  "notes": "MONTOR modulu (montaj/ray kapi/revizyon montorleri + performans, cikis tarihi duzenleme) - Revizyonda silme ve montor secimi - ana menu: STOK/PROJE/REVIZYON/MONTOR"
 }
