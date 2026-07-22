@@ -1,6 +1,6 @@
 {
-  "version": "4.9",
-  "build": 41,
+  "version": "5.0",
+  "build": 42,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Stoga ekleyince STOK ONAY BEKLEME, masaustunden onaylaninca STOK; reddedilen tekrar URETIMDE"
+  "notes": "Sevk ekraninda miktar duzenleme + sevk olan satirlar acik yesil"
 }
