@@ -1,5 +1,6 @@
 {
-  "version": "4.4",
+  "version": "1.0",
+  "build": 36,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Tarih secimi duzeltildi (bugun secilebiliyor) + projede tarih silme (x) eklendi"
+  "notes": "Tarih secimi + montor performansta proje/revizyon secici"
 }
