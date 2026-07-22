@@ -1,6 +1,6 @@
 {
-  "version": "4.8",
-  "build": 40,
+  "version": "4.9",
+  "build": 41,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Uretimde olan urune dokununca Stoga Ekle secenegi"
+  "notes": "Stoga ekleyince STOK ONAY BEKLEME, masaustunden onaylaninca STOK; reddedilen tekrar URETIMDE"
 }
