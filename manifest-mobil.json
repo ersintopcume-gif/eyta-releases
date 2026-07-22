@@ -2,5 +2,5 @@
   "version": "4.7",
   "build": 39,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Montor: tek dokunus aktif gorev + malzeme (ekle/duzenle/sil), basili tut gecmis"
+  "notes": "Montor: AKTIF / TAMAMLANAN sekmeleri (proje-adres-tur-tarih), montor ekle kaldirildi"
 }
