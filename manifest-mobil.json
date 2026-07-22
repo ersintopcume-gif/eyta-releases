@@ -1,6 +1,6 @@
 {
-  "version": "5.0",
-  "build": 42,
+  "version": "5.1",
+  "build": 43,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Sevk ekraninda miktar duzenleme + sevk olan satirlar acik yesil"
+  "notes": "Projede RAY-KAPI/MONTAJ butonlari; MONTAJ'da montor + baslangic/bitis tarihi + KAYDET; paket miktarina dokununca duzenleme penceresi"
 }
