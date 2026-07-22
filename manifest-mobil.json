@@ -1,5 +1,5 @@
 {
-  "version": "3.9",
+  "version": "4.0",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Malzeme eklerken miktar+birim ayni ekranda - Revizyon ve proje ek malzemede Miktar Duzenle ve kismi Stok Iade"
+  "notes": "Proje/revizyon giris-cikis tarihi montorun performans gecmisiyle otomatik senkron - cikis verince gecmiste de gorunur"
 }
