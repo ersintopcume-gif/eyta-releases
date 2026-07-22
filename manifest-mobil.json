@@ -1,6 +1,6 @@
 {
-  "version": "4.6",
-  "build": 38,
+  "version": "4.7",
+  "build": 39,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Bugun tarihi secimi duzeltildi + montor gecmisinde proje/revizyon secici"
+  "notes": "Montor: tek dokunus aktif gorev + malzeme (ekle/duzenle/sil), basili tut gecmis"
 }
