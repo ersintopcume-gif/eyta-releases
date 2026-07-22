@@ -1,5 +1,5 @@
 {
-  "version": "4.1",
+  "version": "4.2",
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Ray Kapi ve Montaj montorune ayri giris/cikis tarihi - EK MALZEME once SEVK (stok sevkte duser), sevk beklerken silinebilir"
+  "notes": "Proje ve revizyon listelerinde AKTIF / KAPANANLAR / TUMU filtresi - kapananlar ayri sekmede, gecmis korunur"
 }
