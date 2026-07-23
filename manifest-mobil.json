@@ -1,6 +1,6 @@
 {
-  "version": "5.2",
-  "build": 44,
+  "version": "5.3",
+  "build": 45,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "RAY-KAPI ve MONTAJ ekraninda montor + baslangic/bitis tarihi + KAYDET; buyuk ortali basliklar; SEVK KAYDET / SEVK IPTAL; montorsuz yerine (Seciniz)"
+  "notes": "RAY-KAPI/MONTAJ montor+tarih ekrani; SEVK KAYDET/IPTAL; montor gecmisi AKTIF/TAMAMLANDI; TUMU/AKTIF/TAMAMLANAN filtreleri; hayalet montor kayit temizligi"
 }
