@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "Guncelleyici artik Program Files\u0027a yonetici izniyle (UAC) yazar - \u0027access denied\u0027 hatasi giderildi; silinen projelerin hareketleri Gunluk Hareket gecmisinde gorunmez; Montor/Kullanici kolonlari; paket icerik butonu.",
-    "version":  "1.0.5",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.5/eyta-v1.0.5.zip"
+    "releaseNotes":  "RAY-KAPI/paket acilirken \u0027duplicate key\u0027 cokmesi giderildi (mukerrer paket durum kayitlari temizlenir, sevk tikleri korunur, cift cikis onlenir); guncelleyici Program Files\u0027a UAC ile yazar.",
+    "version":  "1.0.6",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.6/eyta-v1.0.6.zip"
 }
