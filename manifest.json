@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "RAY-KAPI/paket acilirken \u0027duplicate key\u0027 cokmesi giderildi (mukerrer paket durum kayitlari temizlenir, sevk tikleri korunur, cift cikis onlenir); guncelleyici Program Files\u0027a UAC ile yazar.",
-    "version":  "1.0.6",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.6/eyta-v1.0.6.zip"
+    "releaseNotes":  "Sevk edilen malzemelerin tik kutusu kilitli (yanlislikla degisip cift cikis olmaz); proje penceresi yeni duzen (Musteri+SiparisNo, Referans+Adres, Asansor/Kapasite/Durak, Agirlik/Kapi/Pano, olculer solda + kaplama turleri sagda: Kabin Kaplama/Paslanmaz Turu/Tavan Modeli/Ayna).",
+    "version":  "1.0.7",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.7/eyta-v1.0.7.zip"
 }
