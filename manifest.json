@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "Gunluk hareket: proje+grup bazli tek satir (ayni gun farkli saatler + ek malzeme PAKET MALZEME icinde toplanir; icerik penceresinde her kalemin kendi sevk tarih/saati). PROJE BAZLI YARI MAMUL: durum arka plan renkleri (STOK yesil, URETIM sari, PLANLAMA mavi). Urun Agaci: cift-tik kaydette cokme giderildi; butonlar sadelesti (ikonsuz).",
-    "version":  "1.0.11",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.11/eyta-v1.0.11.zip"
+    "releaseNotes":  "PROJE BAZLI YARI MAMUL: Segoe UI font, grid tam pencereye oturur (Musteri/Adres esnek); durum arka plan renkleri. (Urun Agaci sag panel-\u003epopup donusumu sonraki surumde.)",
+    "version":  "1.0.12",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.12/eyta-v1.0.12.zip"
 }
