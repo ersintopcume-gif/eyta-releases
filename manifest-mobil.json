@@ -1,6 +1,6 @@
 {
-  "version": "5.4",
-  "build": 46,
+  "version": "5.5",
+  "build": 47,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Gunluk hareket ekrani (paket icerik, montor/kullanici); montor ekraninda aktif gorevler; proje AKTIF/bitti mantigi; sevk filtresi; paket coklu malzeme ekleme"
+  "notes": "RAY-KAPI/paket acilirken cokme (duplicate key) giderildi; Gunluk hareket (paket icerik, montor/kullanici); montor aktif gorevler; sevk filtresi"
 }
