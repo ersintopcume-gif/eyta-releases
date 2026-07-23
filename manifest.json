@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "Otomatik guncelleme duzeltildi: self-contained exe\u0027de yeni surum artik dogru klasore (Program Files) UAC ile yaziliyor - guncelleme dongusu bitti; manifest cache-bust (aninda gorunur). Ayrica PROJE BAZLI STOK sekmesi + Proje ekrani NO kolonu.",
-    "version":  "1.0.9",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.9/eyta-v1.0.9.zip"
+    "releaseNotes":  "PROJE BAZLI STOK: TUR kisaltildi (MRL/MR), Musteri/Adres daraltildi, durum renkleri (STOK yesil, URETIM turuncu, PLANLAMA gri), yandan agirlikta capraz palanga \u0027-\u0027, KARSI AGIRLIK KARKASI (ray arasi 1040 disi=uretim planlama). Sekmeler esit genislikte.",
+    "version":  "1.0.10",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.10/eyta-v1.0.10.zip"
 }
