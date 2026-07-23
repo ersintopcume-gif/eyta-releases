@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "PROJE BAZLI STOK: TUR kisaltildi (MRL/MR), Musteri/Adres daraltildi, durum renkleri (STOK yesil, URETIM turuncu, PLANLAMA gri), yandan agirlikta capraz palanga \u0027-\u0027, KARSI AGIRLIK KARKASI (ray arasi 1040 disi=uretim planlama). Sekmeler esit genislikte.",
-    "version":  "1.0.10",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.10/eyta-v1.0.10.zip"
+    "releaseNotes":  "Gunluk hareket: proje+grup bazli tek satir (ayni gun farkli saatler + ek malzeme PAKET MALZEME icinde toplanir; icerik penceresinde her kalemin kendi sevk tarih/saati). PROJE BAZLI YARI MAMUL: durum arka plan renkleri (STOK yesil, URETIM sari, PLANLAMA mavi). Urun Agaci: cift-tik kaydette cokme giderildi; butonlar sadelesti (ikonsuz).",
+    "version":  "1.0.11",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.11/eyta-v1.0.11.zip"
 }
