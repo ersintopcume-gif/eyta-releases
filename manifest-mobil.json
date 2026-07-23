@@ -1,6 +1,6 @@
 {
-  "version": "5.6",
-  "build": 48,
+  "version": "5.7",
+  "build": 49,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Sevk edilen malzemelerin tik kutusu kilitli (yanlislikla degisip cift cikis olmaz); paket cokme fix; gunluk hareket montor/kullanici"
+  "notes": "Gunluk hareket: proje+grup bazli tek satir; ek malzeme PAKET MALZEME icinde; icerikte her kalemin kendi sevk tarih/saati"
 }
