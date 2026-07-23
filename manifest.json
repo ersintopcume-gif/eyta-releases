@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-24",
-    "releaseNotes":  "Urun Agaci: sag detay paneli kalkti, urun listesi tam genislik; urune CIFT TIKLAYINCA detay penceresi acilir (parca -\u003e parca bilgileri, yari mamul -\u003e BOM). Detay butonlari: PARCA EKLE/DUZENLE/SIL/KAYDET (ikonsuz).",
-    "version":  "1.0.15",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.15/eyta-v1.0.15.zip"
+    "releaseNotes":  "Urun Agaci acilista cokme giderildi (detay penceresi Owner ana pencere gosterildikten sonra atanir; try/catch).",
+    "version":  "1.0.16",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.16/eyta-v1.0.16.zip"
 }
