@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "Paket ekrani yenilendi (montor/tarih/KAYDET, kucuk grup butonlari, SIL, miktar penceresi); Pano Turu; Kapasite 450/630 KG; satir renkleri; PROJE/PROJELER basliklari; TUMU/AKTIF/TAMAMLANAN",
-    "version":  "1.0.2",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.2/eyta-v1.0.2.zip"
+    "releaseNotes":  "Montor ekrani salt performans (Durum/Sure); proje ekrani basliklar+TAMAMLANAN 8 kolon+montor gorunum; hayalet montor kayit temizligi; proje olcu alanlari; Kabin Olcu Formu proje secince olculeri+pano otomatik doldurur; Uretim menusu buyuk basliklar; Kabin ayri exe (masaustu kisayolu)",
+    "version":  "1.0.3",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.3/eyta-v1.0.3.zip"
 }
