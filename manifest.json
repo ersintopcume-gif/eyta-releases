@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "Stok: 4 yari mamul sekmesi tek \u0027PROJE BAZLI STOK\u0027 sekmesinde birlesti (her proje 1 satir, KABIN KARKASI/CAPRAZ PALANGA/TABAN-TAVAN/KABIN durumlari yan yana; Olcu ve Uretim Tarihi kolonlari kalkti). Proje ekranina NO kolonu eklendi.",
-    "version":  "1.0.8",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.8/eyta-v1.0.8.zip"
+    "releaseNotes":  "Otomatik guncelleme duzeltildi: self-contained exe\u0027de yeni surum artik dogru klasore (Program Files) UAC ile yaziliyor - guncelleme dongusu bitti; manifest cache-bust (aninda gorunur). Ayrica PROJE BAZLI STOK sekmesi + Proje ekrani NO kolonu.",
+    "version":  "1.0.9",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.9/eyta-v1.0.9.zip"
 }
