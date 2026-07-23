@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "Gunluk malzeme hareket ekrani (paket icerik butonu, Montor/Kullanici kolonlari); TUMU sekmesi + sik sutun basliklari + sekme ikonlari kaldirildi; Uretim Onay; montor ekraninda aktif gorevler; proje AKTIF/bitti mantigi duzeltildi; reddedilen uretim STOK\u0027ta kalmiyor; Projeye Tasi; paket coklu malzeme ekleme + sevk filtresi; guncelleme ekrani surum+yuzde.",
-    "version":  "1.0.4",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.4/eyta-v1.0.4.zip"
+    "releaseNotes":  "Guncelleyici artik Program Files\u0027a yonetici izniyle (UAC) yazar - \u0027access denied\u0027 hatasi giderildi; silinen projelerin hareketleri Gunluk Hareket gecmisinde gorunmez; Montor/Kullanici kolonlari; paket icerik butonu.",
+    "version":  "1.0.5",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.5/eyta-v1.0.5.zip"
 }
