@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-23",
-    "releaseNotes":  "Sevk edilen malzemelerin tik kutusu kilitli (yanlislikla degisip cift cikis olmaz); proje penceresi yeni duzen (Musteri+SiparisNo, Referans+Adres, Asansor/Kapasite/Durak, Agirlik/Kapi/Pano, olculer solda + kaplama turleri sagda: Kabin Kaplama/Paslanmaz Turu/Tavan Modeli/Ayna).",
-    "version":  "1.0.7",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.7/eyta-v1.0.7.zip"
+    "releaseNotes":  "Stok: 4 yari mamul sekmesi tek \u0027PROJE BAZLI STOK\u0027 sekmesinde birlesti (her proje 1 satir, KABIN KARKASI/CAPRAZ PALANGA/TABAN-TAVAN/KABIN durumlari yan yana; Olcu ve Uretim Tarihi kolonlari kalkti). Proje ekranina NO kolonu eklendi.",
+    "version":  "1.0.8",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.8/eyta-v1.0.8.zip"
 }
