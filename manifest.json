@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-24",
-    "releaseNotes":  "Montor ekraninda isimler gorunuyor (field-\u003eproperty bind hatasi); PROJE BAZLI durum renkleri acik tonlar (koyu yazi); MR turunde capraz palanga \u0027-\u0027.",
-    "version":  "1.0.14",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.14/eyta-v1.0.14.zip"
+    "releaseNotes":  "Urun Agaci: sag detay paneli kalkti, urun listesi tam genislik; urune CIFT TIKLAYINCA detay penceresi acilir (parca -\u003e parca bilgileri, yari mamul -\u003e BOM). Detay butonlari: PARCA EKLE/DUZENLE/SIL/KAYDET (ikonsuz).",
+    "version":  "1.0.15",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.15/eyta-v1.0.15.zip"
 }
