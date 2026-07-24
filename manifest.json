@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-24",
-    "releaseNotes":  "Stok: TUMU sekmesi HAMMADDE ile ayni duzen, tum sekmeler 340px tutarli; kaydet sonrasi arama korunur; stok satir renkleri acik tonlar (yesil/sari/kirmizi). Urun Agaci: PARCA EKLE/YARI MAMUL EKLE, genis sutunlar (Kritik Stok), kategori PARCA. Projeler sirama korunur.",
-    "version":  "1.0.19",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.19/eyta-v1.0.19.zip"
+    "releaseNotes":  "Stok tek sayfa (radio kategori, aninda gecis); stok hareketine Montaj/Ray Kapi cikisi + montor secimi; gunluk harekette montor gorunur. Urun agaci ve stok iyilestirmeleri.",
+    "version":  "1.0.20",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.20/eyta-v1.0.20.zip"
 }
