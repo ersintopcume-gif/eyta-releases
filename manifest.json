@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-24",
-    "releaseNotes":  "Stok tek sayfa (radio kategori, aninda gecis); stok hareketine Montaj/Ray Kapi cikisi + montor secimi; gunluk harekette montor gorunur. Urun agaci ve stok iyilestirmeleri.",
-    "version":  "1.0.20",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.20/eyta-v1.0.20.zip"
+    "releaseNotes":  "Stok 0 iken bile cikis (eksiye duser); tip listesi GIRIS Uretim/Montaj Iade + Musteri Perakende Satisi; mobil gunluk hareket icerik alt butonlar Ekle/Duzenle/Kaydet/Sil; mobil montor gorevine tikla -\u003e paket listesi/revizyon.",
+    "version":  "1.0.21",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.21/eyta-v1.0.21.zip"
 }
