@@ -1,6 +1,6 @@
 {
-  "version": "6.0",
-  "build": 52,
+  "version": "6.1",
+  "build": 53,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Stok+Proje ekle/duzenle/sil (mobil form); stok hareketine Montaj/Ray Kapi cikisi + montor; gunluk hareket icerige girip duzenle/sil (stok geri alinir); montor/kullanici gorunur"
+  "notes": "Stok 0 iken bile cikis (eksiye duser); tip listesi GIRIS Uretim/Montaj Iade + Musteri Perakende Satisi; gunluk hareket icerik alt butonlar Ekle/Duzenle/Kaydet/Sil; montor gorevine tikla -> paket listesi/revizyon"
 }
