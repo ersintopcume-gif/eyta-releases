@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.18",
     "releaseDate":  "2026-07-24",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.18/eyta-v1.0.18.zip",
-    "releaseNotes":  "Stok ekrani: ortak alt butonlar (Ekle/Duzenle/Kaydet/Sil/Excel), Kategori kolonu Ticari Mal+Hirdavat, Yari Mamul Hirdavattan sonra, Lazer->Parca Malzeme, sekme secim daireleri."
+    "releaseNotes":  "Stok: TUMU sekmesi HAMMADDE ile ayni duzen, tum sekmeler 340px tutarli; kaydet sonrasi arama korunur; stok satir renkleri acik tonlar (yesil/sari/kirmizi). Urun Agaci: PARCA EKLE/YARI MAMUL EKLE, genis sutunlar (Kritik Stok), kategori PARCA. Projeler sirama korunur.",
+    "version":  "1.0.19",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.19/eyta-v1.0.19.zip"
 }
