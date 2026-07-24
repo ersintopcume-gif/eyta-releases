@@ -1,6 +1,6 @@
 {
-  "version": "5.9",
-  "build": 51,
+  "version": "6.0",
+  "build": 52,
   "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Gunluk harekette satira tiklayinca icerik acilir; PAKET MALZEME alt butonlar Ekle/Sil/Sevk Kaydet/Sevk Iptal; RAY KAPI direkt malzeme listesi + ustte montor karti; projede montor proje altinda gorunur"
+  "notes": "Stok+Proje ekle/duzenle/sil (mobil form); stok hareketine Montaj/Ray Kapi cikisi + montor; gunluk hareket icerige girip duzenle/sil (stok geri alinir); montor/kullanici gorunur"
 }
