@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-07-24",
-    "releaseNotes":  "Uretim onay: proje bazlida onaysiz STOK yok (ONAY BEKLIYOR); durum tiklayarak degistir (eyta2026 sifreli); iptal-\u003euretim planlama; siralama korunur; sevk kilidi kaldirildi. Montorden paket erisimi; gunluk hareket icerik duzenle/sil. Mobil: paket daire+butonlar, stok hareket montaj/ray kapi+montor, gunluk hareket icerik.",
-    "version":  "1.0.22",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.22/eyta-v1.0.22.zip"
+    "releaseDate":  "2026-07-25",
+    "releaseNotes":  "Personel girisi + yetki sistemi, SATIS (musteri) modulu, proje bazli yari mamul sevkinde stoktan dusme ve gunluk harekete yazma, sevki tamamlananlarin ekrandan gizlenmesi.",
+    "version":  "1.0.23",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.23/eyta-v1.0.23.zip"
 }
