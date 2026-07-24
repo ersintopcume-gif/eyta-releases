@@ -1,6 +1,6 @@
 {
+    "version":  "1.0.18",
     "releaseDate":  "2026-07-24",
-    "releaseNotes":  "Guncelleme cift-sorma duzeltildi; Urun agacinda birim turu (metre/kg) girisi; Stok ekrani tutarli duzen, STOK HAREKET/GECMIS urun kartinda, sekme secim daireleri.",
-    "version":  "1.0.17",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.17/eyta-v1.0.17.zip"
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.18/eyta-v1.0.18.zip",
+    "releaseNotes":  "Stok ekrani: ortak alt butonlar (Ekle/Duzenle/Kaydet/Sil/Excel), Kategori kolonu Ticari Mal+Hirdavat, Yari Mamul Hirdavattan sonra, Lazer->Parca Malzeme, sekme secim daireleri."
 }
