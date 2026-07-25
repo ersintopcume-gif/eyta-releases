@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-25",
-    "releaseNotes":  "Gecici teshis surumu: acilista oturum durumu kutusu (GeriYukle sorununu bulmak icin). Girisde bos menu yerine tekrar sorar.",
-    "version":  "1.0.24",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.24/eyta-v1.0.24.zip"
+    "releaseNotes":  "KRITIK DUZELTME: Giris sistemi artik calisiyor (App.xaml x:Class uyusmazligi giderildi - OnStartup calismiyordu). Personel girisi, kalici oturum, yetki menusu, DB migration\u0027lar devrede. Kapat-ac artik giris hatirliyor.",
+    "version":  "1.0.25",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.25/eyta-v1.0.25.zip"
 }
