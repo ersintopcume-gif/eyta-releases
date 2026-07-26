@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-26",
-    "releaseNotes":  "Urun karti: MAMUL maliyet ozyinelemeli hesap (alt-BOM toplami), Maliyet gridine birim/toplam agirlik kolonlari, Teknik toplam agirlik, BOM Patlatilmis (en temel malzeme: sac/civata/boya) gorunumu.",
-    "version":  "1.0.26",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.26/eyta-v1.0.26.zip"
+    "releaseNotes":  "Duzeltme: BOM kaydedince bilesen adlari ve maliyet \u0027?\u0027/0.00 kalmasi giderildi (BilesenlerKaydet artik cagiranin Bilesen navigasyonunu bozmuyor).",
+    "version":  "1.0.27",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.27/eyta-v1.0.27.zip"
 }
