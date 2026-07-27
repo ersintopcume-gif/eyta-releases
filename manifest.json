@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-27",
-    "releaseNotes":  "Ray Kapi MALZEME EKLE (masaustu+mobil), tik kaldirinca stok iade (SevkGeriAl), PROSES 2 buton, Ana Sayfa donusu, Paket Sablon geri duzeldi, istasyon kuyrugu coklu tik, kesimde alt parcalar, operasyon islemede sira+LAZER uyarisi",
-    "version":  "1.0.32",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.32/eyta-v1.0.32.zip"
+    "releaseNotes":  "Kullanici cikisi (oturum kapat) basliga eklendi; montor calisma kayitlari siparis no (#id) ile eslesir - musteri/referans adi degisince aktif iste takili kalan montaj/ray kapi kayitlari artik dogru kapanir",
+    "version":  "1.0.33",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.33/eyta-v1.0.33.zip"
 }
