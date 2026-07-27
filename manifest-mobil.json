@@ -1,6 +1,6 @@
 {
-  "version": "6.2",
-  "build": 54,
-  "apkUrl": "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-  "notes": "Paket ekrani daire+butonlar (Ekle/Duzenle/Sil/Kaydet); stok hareket Montaj/Ray Kapi cikisi+montor, stok 0da bile cikis; gunluk hareket icerik duzenle/sil; montor gorevine tikla->paket; sevk kilidi kaldirildi"
+    "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
+    "build":  55,
+    "version":  "6.3",
+    "notes":  "Ray Kapi MALZEME EKLE eklendi; tik kaldirinca stok iade (sevk iptal); Ray Kapi/Montaj tik yerine secim; paket ekrani duzeltmeleri"
 }
