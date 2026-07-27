@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-07-26",
-    "releaseNotes":  "Maliyet sekmesinden agirlik kolonlari kaldirildi (sade maliyet); agirlik Teknik toplam + BOM Patlatilmis gorunumunde.",
-    "version":  "1.0.28",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.28/eyta-v1.0.28.zip"
+    "releaseDate":  "2026-07-27",
+    "releaseNotes":  "Kurumsal uretim akisi: Lazer Is Emri (sablon eslestirme + birincil parca), kesim=lazer adimi, siparise ozel uretim (musteri/proje tahsis), Raporlar (Uretim + Stok Hareket), butunluk kurallari, negatif stok duzeltmesi, DB performans, Operasyonlar dk+sn, Stok sekme sirasi",
+    "version":  "1.0.29",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.29/eyta-v1.0.29.zip"
 }
