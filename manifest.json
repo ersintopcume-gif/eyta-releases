@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-27",
-    "releaseNotes":  "Kurumsal uretim akisi: Lazer Is Emri (sablon eslestirme + birincil parca), kesim=lazer adimi, siparise ozel uretim (musteri/proje tahsis), Raporlar (Uretim + Stok Hareket), butunluk kurallari, negatif stok duzeltmesi, DB performans, Operasyonlar dk+sn, Stok sekme sirasi",
-    "version":  "1.0.29",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.29/eyta-v1.0.29.zip"
+    "releaseNotes":  "Guncelleme butonu (baslik cubugu + acilista otomatik denetim), Montor (Paket Cikis) Projeler altinda, Lazer Kesim 2 sekme (Kesim Emirleri + Nesting Sablonlari), malzeme kalitesi otomatik (304/430/S235JR), PROSES butonlari genisletildi, parca maliyet kirilimi (Malzeme + Hurda + Toplam), sekme gecis takilmasi azaltildi (arka plan yenileme)",
+    "version":  "1.0.30",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.30/eyta-v1.0.30.zip"
 }
