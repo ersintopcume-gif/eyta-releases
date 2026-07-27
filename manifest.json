@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-27",
-    "releaseNotes":  "Async operasyon isleme, LAZER=kesim uyarisi + sira zorunlu, Boya en sona, Personel yonetimi (Ayarlar), giris guvenlik, Paket Sablonlari Projeler altina, otomatik veri+kod yedegi, tek klasor",
-    "version":  "1.0.31",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.31/eyta-v1.0.31.zip"
+    "releaseNotes":  "Ray Kapi MALZEME EKLE (masaustu+mobil), tik kaldirinca stok iade (SevkGeriAl), PROSES 2 buton, Ana Sayfa donusu, Paket Sablon geri duzeldi, istasyon kuyrugu coklu tik, kesimde alt parcalar, operasyon islemede sira+LAZER uyarisi",
+    "version":  "1.0.32",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.32/eyta-v1.0.32.zip"
 }
