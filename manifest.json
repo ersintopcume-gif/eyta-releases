@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-07-27",
-    "releaseNotes":  "Kullanici cikisi (oturum kapat) basliga eklendi; montor calisma kayitlari siparis no (#id) ile eslesir - musteri/referans adi degisince aktif iste takili kalan montaj/ray kapi kayitlari artik dogru kapanir",
-    "version":  "1.0.33",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.33/eyta-v1.0.33.zip"
+    "releaseNotes":  "STOK: Net Stok (Mevcut-Rezerv-KaliteBekleyen), Kritik/Min/Emniyet stok esikleri + Kritik Stok uyari ekrani, Sayim (envanter) modulu (fark otomatik SAYIM hareketi). PLANLAMA: Gercek MRP net ihtiyac (Brut+Emniyet-NetStok-Gelen) + talep birlestirme (MRP ekrani). Sac/stok satir renkleri artik gercek esiklere bagli.",
+    "version":  "1.0.34",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.34/eyta-v1.0.34.zip"
 }
