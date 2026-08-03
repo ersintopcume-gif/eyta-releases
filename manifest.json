@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-08-03",
-    "releaseNotes":  "Proje bazli yari mamul: STOK direkt stoga alir, IPTAL geri URETIM PLANLAMA\u0027ya doner, onayli urun sifreyle geri alma",
-    "version":  "1.0.35",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.35/eyta-v1.0.35.zip"
+    "releaseDate":  "2026-08-04",
+    "releaseNotes":  "Kritik duzeltme: single-file exe artik gercek klasordeki eyta-db.txt\u0027yi bulur (CozBaglanti path fix). Guncelleme sirasinda eyta-db.txt korunur.",
+    "version":  "1.0.36",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.36/eyta-v1.0.36.zip"
 }
