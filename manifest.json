@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-07-27",
-    "releaseNotes":  "STOK: Net Stok (Mevcut-Rezerv-KaliteBekleyen), Kritik/Min/Emniyet stok esikleri + Kritik Stok uyari ekrani, Sayim (envanter) modulu (fark otomatik SAYIM hareketi). PLANLAMA: Gercek MRP net ihtiyac (Brut+Emniyet-NetStok-Gelen) + talep birlestirme (MRP ekrani). Sac/stok satir renkleri artik gercek esiklere bagli.",
-    "version":  "1.0.34",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.34/eyta-v1.0.34.zip"
+    "releaseDate":  "2026-08-03",
+    "releaseNotes":  "Proje bazli yari mamul: STOK direkt stoga alir, IPTAL geri URETIM PLANLAMA\u0027ya doner, onayli urun sifreyle geri alma",
+    "version":  "1.0.35",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.35/eyta-v1.0.35.zip"
 }
