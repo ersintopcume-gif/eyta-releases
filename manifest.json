@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-04",
-    "releaseNotes":  "Proje Bazli Yari Mamul: SEVK EDILDI kolonu eklendi (gizleme kaldirildi), sevk edilen satirlar mor renkli belirginlestirildi.",
-    "version":  "1.0.37",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.37/eyta-v1.0.37.zip"
+    "releaseNotes":  "Proje icinde sevk edilen yari mamul urunler Proje Bazli Yari Mamul tablosunda \u0027SEVK EDILDI\u0027 olarak gorunur (mor renk); paket dialog acildiginda onceki sevk durumu korunur.",
+    "version":  "1.0.38",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.38/eyta-v1.0.38.zip"
 }
