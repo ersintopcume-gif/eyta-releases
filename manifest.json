@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-04",
-    "releaseNotes":  "Proje Bazli Stok ekranina SEVK EDILDI secenegi eklendi: STOK durumundaki yari mamul buradan sevk edilebilir (stoktan duser, cift dusum olmaz). Sevki tamamen biten projeler listede birikmeyip otomatik gizlenir.",
-    "version":  "1.0.41",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.41/eyta-v1.0.41.zip"
+    "releaseNotes":  "Otomatik guncelleme dayanikliligi: update.zip kilit sorunu (benzersiz klasor) ve exe kopyalama kilidi (retry, basarisizsa donguye girmeden durur) duzeltildi. Proje bazli stokta sevki biten proje gizlenir; SEVK EDILDI secenegi. Turkce karakter duzeltmeleri.",
+    "version":  "1.0.42",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.42/eyta-v1.0.42.zip"
 }
