@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-04",
-    "releaseNotes":  "Proje icinde sevk edilen yari mamul urunler Proje Bazli Yari Mamul tablosunda \u0027SEVK EDILDI\u0027 olarak gorunur (mor renk); paket dialog acildiginda onceki sevk durumu korunur.",
-    "version":  "1.0.38",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.38/eyta-v1.0.38.zip"
+    "releaseNotes":  "Veritabani baglantisi bulunamama sorunu duzeltildi - kurulu surum artik eyta-db.txt\u0027yi dogru bulur ve listeler yuklenir. Otomatik guncellemede yerel ayar dosyalari (eyta-db.txt, oturum.txt) korunur. Uretim menusune Malzeme Cikisi ekrani eklendi.",
+    "version":  "1.0.39",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.39/eyta-v1.0.39.zip"
 }
