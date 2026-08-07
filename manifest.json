@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-07",
-    "releaseNotes":  "Sevk KAYDET/SEVK ayrimi (once liste kaydet, sonra stok cikisi) - masaustu+mobil; Satis menusu Proje/Siparis alt sekmeleri; Proje\u003c-\u003eSiparis tasima; Kabin EFCore surum duzeltmesi.",
-    "version":  "1.0.43",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.43/eyta-v1.0.43.zip"
+    "releaseNotes":  "Gecmise yonelik sevk: Proje Bazli Yari Mamul hucre menusunde \u0027SEVK ET\u0027 her durumda calisir (stokta degilse once uretip stoga alir), hepsi sevk olunca listeden duser. Siparis modu artik Proje modu gibi: RAY-KAPI + MONTAJ (7-butonlu popup kaldirildi).",
+    "version":  "1.0.44",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.44/eyta-v1.0.44.zip"
 }
