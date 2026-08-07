@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-08-04",
-    "releaseNotes":  "Otomatik guncelleme dayanikliligi: update.zip kilit sorunu (benzersiz klasor) ve exe kopyalama kilidi (retry, basarisizsa donguye girmeden durur) duzeltildi. Proje bazli stokta sevki biten proje gizlenir; SEVK EDILDI secenegi. Turkce karakter duzeltmeleri.",
-    "version":  "1.0.42",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.42/eyta-v1.0.42.zip"
+    "releaseDate":  "2026-08-07",
+    "releaseNotes":  "Sevk KAYDET/SEVK ayrimi (once liste kaydet, sonra stok cikisi) - masaustu+mobil; Satis menusu Proje/Siparis alt sekmeleri; Proje\u003c-\u003eSiparis tasima; Kabin EFCore surum duzeltmesi.",
+    "version":  "1.0.43",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.43/eyta-v1.0.43.zip"
 }
