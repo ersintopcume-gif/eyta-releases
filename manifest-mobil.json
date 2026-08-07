@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  56,
-    "version":  "6.4",
-    "notes":  "Paket ekrani sevk secimi tik (checkbox); satira cift dokunusla duzenle; montor calisma kayitlari siparis no ile eslesir - aktif iste takili kalan montaj/ray kapi duzeldi"
+    "build":  57,
+    "version":  "6.5",
+    "notes":  "Sevk KAYDET/SEVK ayrimi: once isaretle+KAYDET (stok dusmez), sonra SEVK ET (stok cikisi). Isaretli=mavi, sevk edildi=yesil."
 }
