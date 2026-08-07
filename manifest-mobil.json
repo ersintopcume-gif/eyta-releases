@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  57,
-    "version":  "6.5",
-    "notes":  "Sevk KAYDET/SEVK ayrimi: once isaretle+KAYDET (stok dusmez), sonra SEVK ET (stok cikisi). Isaretli=mavi, sevk edildi=yesil."
+    "build":  58,
+    "version":  "6.6",
+    "notes":  "Veritabani baglantisi APK icine gomuldu (mobil DB baglantisi bulunamadi hatasi duzeldi). Sevk KAYDET/SEVK ayrimi."
 }
