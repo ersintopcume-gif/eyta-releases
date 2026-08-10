@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  58,
-    "version":  "6.6",
-    "notes":  "Veritabani baglantisi APK icine gomuldu (mobil DB baglantisi bulunamadi hatasi duzeldi). Sevk KAYDET/SEVK ayrimi."
+    "build":  59,
+    "version":  "6.7",
+    "notes":  "Sevk kaydet/sevk ayrimi + perakende satis + sevk geri alma; DB baglanti gomulu."
 }
