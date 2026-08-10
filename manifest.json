@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-08-07",
-    "releaseNotes":  "Yari mamul sevkini engelleyen veritabani hatasi (ProjePaketDurum SablonKalemiId FK) duzeltildi: Paket ekraninda KAYDET/SEVK ET ve Proje Bazli Stok\u0027ta SEVK ET artik calisir. Acilista eski hatali FK otomatik kaldirilir.",
-    "version":  "1.0.45",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.45/eyta-v1.0.45.zip"
+    "releaseDate":  "2026-08-10",
+    "releaseNotes":  "Perakende Satis eklendi (Siparis menusu -\u003e tek tek urun satisi). Kabin Olcu Formu: proje/adres adindaki \u0027:\u0027 gibi gecersiz karakter DXF/Excel \u0027Dizin adi gecersiz\u0027 hatasi duzeltildi. Kabin formu acikken Uretim Planlama\u0027da yeni proje/cari acilinca dropdown acildiginda aninda gorunur (kapat-ac gerekmez).",
+    "version":  "1.0.47",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.47/eyta-v1.0.47.zip"
 }
