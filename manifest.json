@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-10",
-    "releaseNotes":  "Uygulama carpidan (X) kapatilinca artik TAMAMEN kapanir. Onceden gizli host pencereleri acik kaldigindan process arkada calismaya devam ediyordu (zombi instance -\u003e Supabase baglanti havuzunu doldurup \u0027DB baglantisi gitti\u0027 sorununa yol aciyordu). Kesin kapanis garanti.",
-    "version":  "1.0.51",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.51/eyta-v1.0.51.zip"
+    "releaseNotes":  "Yari mamul sevk kaydinin kapat-ac\u0027ta kalkmasi: SablonKalemiId FK\u0027si ve SecildiSevk kolonu acilista pooler-uyumlu basit SQL ile kokten garanti altina alindi (DO blogu yedek olarak duruyor).",
+    "version":  "1.0.52",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.52/eyta-v1.0.52.zip"
 }
