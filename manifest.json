@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-10",
-    "releaseNotes":  "Yari mamul sevk kaydinin kapat-ac\u0027ta kalkmasi: SablonKalemiId FK\u0027si ve SecildiSevk kolonu acilista pooler-uyumlu basit SQL ile kokten garanti altina alindi (DO blogu yedek olarak duruyor).",
-    "version":  "1.0.52",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.52/eyta-v1.0.52.zip"
+    "releaseNotes":  "Otomatik guncelleme artik uygulama KAPANDIKTAN SONRA harici script ile yapilir. Onceden in-process kopya, antivirusun taze exe\u0027yi taramasi yuzunden kilitleniyordu. Yeni yol: kapanisi bekle -\u003e retry\u0027li kopyala (~24 sn) -\u003e yeniden baslat. Antivirus istisnasi gerekmez.",
+    "version":  "1.0.53",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.53/eyta-v1.0.53.zip"
 }
