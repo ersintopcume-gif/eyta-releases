@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-10",
-    "releaseNotes":  "Cari Satis Ozeti eklendi (Siparis menusu): cariye yapilan paket+perakende satislar ve maliyetleri. Perakende satis artik cariye baglanir. Sevk tiki kalicilik (FK) duzeltmesi dahil.",
-    "version":  "1.0.48",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.48/eyta-v1.0.48.zip"
+    "releaseNotes":  "Perakende Satis ve Cari Satis Ozeti sol menu (Satis) altina eklendi. Cari Satis Ozeti: cariye yapilan paket+perakende satislar ve maliyetleri.",
+    "version":  "1.0.49",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.49/eyta-v1.0.49.zip"
 }
