@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  63,
-    "version":  "6.11",
-    "notes":  "Yari mamul sevkte oto-uretim (net stok negatife dusmez) - masaustu ile ayni. Onceki: revizyon montor filtresi, sade menu, Paket Satis ayri, Perakende Satis, Gunluk Hareket Turkce + iptal/duzelt."
+    "build":  64,
+    "version":  "6.12",
+    "notes":  "Perakende Satis yeniden tasarlandi: \u0027SON SATISLAR\u0027 sekmesi + satisa dokununca IPTAL (stok iadesi); fiyat gosterimi, duzenli kartlar."
 }
