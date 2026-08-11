@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  62,
-    "version":  "6.10",
-    "notes":  "Revizyon montor GECMIS (tamamlanan) sekmesinde de silinen/biten revizyonlar artik gorunmuyor."
+    "build":  63,
+    "version":  "6.11",
+    "notes":  "Yari mamul sevkte oto-uretim (net stok negatife dusmez) - masaustu ile ayni. Onceki: revizyon montor filtresi, sade menu, Paket Satis ayri, Perakende Satis, Gunluk Hareket Turkce + iptal/duzelt."
 }
