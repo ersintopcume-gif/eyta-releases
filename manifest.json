@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-11",
-    "releaseNotes":  "Evrensel item-master: urun kartina MRP/planlama nitelikleri eklendi - Uret/Satin-al (make/buy), maliyet yontemi, temin suresi, min siparis, siparis kati, barkod. Gruplu form (Genel/Fiziksel/Stok/Planlama-MRP/Maliyet). Firma-bagimsiz, standart ERP yapisi.",
-    "version":  "1.0.66",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.66/eyta-v1.0.66.zip"
+    "releaseNotes":  "Urun Grubu konfigurasyonu (evrensel): kategoriler artik koda gomulu degil, \u0027Urun Gruplari (Konfig.)\u0027 ekranindan yonetilir (MVVM). Stok karti kategorileri + maliyet motorunun \u0027uretilen\u0027 karari bu tablodan gelir. 6 varsayilan grup seed\u0027lenir. Hicbir sabit kategori kalmadi.",
+    "version":  "1.0.67",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.67/eyta-v1.0.67.zip"
 }
