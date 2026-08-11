@@ -1,6 +1,6 @@
 {
+    "version":  "1.0.55",
     "releaseDate":  "2026-08-11",
-    "releaseNotes":  "Sevk/kaydet \u0027entity changes\u0027 hatasi giderildi; gecmise yonelik sevk ve yari mamul sevk kayitlari duzeldi (debug loglari kaldirildi).",
-    "version":  "1.0.54",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.54/eyta-v1.0.54.zip"
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.55/eyta-v1.0.55.zip",
+    "releaseNotes":  "Sevk Edilenler (Geri Al) penceresi; Paket SEVK kolonu tik gorunumu; stok kartindan adet duzeltme; Paket Satis menusu; kararlilik iyilestirmeleri."
 }
