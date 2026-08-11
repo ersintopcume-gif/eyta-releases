@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  59,
-    "version":  "6.7",
-    "notes":  "Sevk kaydet/sevk ayrimi + perakende satis + sevk geri alma; DB baglanti gomulu."
+    "build":  60,
+    "version":  "6.8",
+    "notes":  "Ana menu sadelestirildi (sekil yok, isim odakli); Paket Satis ayri sayfa; Perakende Satis; Gunluk Hareket Turkce duzeltme + iptal/duzelt acildi; stok kartindan adet; sevk tik gorunumu."
 }
