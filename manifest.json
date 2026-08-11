@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-08-11",
-    "releaseNotes":  "Proje Bazli Yari Mamul: uretim emri olmayan projelere (Paket Satis / masaustu acilanlar dahil) eksik yari mamul emirleri otomatik tamamlanir - A/B BLOK gibi projeler artik gorunur. Yeni proje olusturmada da emir acilir. OtomatikUretimEmri idempotent.",
-    "version":  "1.0.59",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.59/eyta-v1.0.59.zip"
+    "releaseNotes":  "Duzeltme: Proje Bazli oto-emir artik YENI uretim sistemindeki (UretimIsEmirleri) projelere eski emir ACMAZ (KARMA_GECIS cakismasi onlendi). 1.0.59\u0027un yeni-sistem projelerine yanlislikla actigi stok-etkisiz otomatik emirler temizlenir.",
+    "version":  "1.0.60",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.60/eyta-v1.0.60.zip"
 }
