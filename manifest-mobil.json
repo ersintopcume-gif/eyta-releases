@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  64,
-    "version":  "6.12",
-    "notes":  "Perakende Satis yeniden tasarlandi: \u0027SON SATISLAR\u0027 sekmesi + satisa dokununca IPTAL (stok iadesi); fiyat gosterimi, duzenli kartlar."
+    "build":  65,
+    "version":  "6.13",
+    "notes":  "Gunluk Harekette arama (paket icerigi dahil, Turkce karakter gerekmez). CIKIS - Uretim artik bolum + personel soruyor. Yeni Tedarikciler sayfasi: ekle, duzenle, sil. GIRIS - Satin Alma\u0027da tedarikci ve alis fiyati. Musteri seciciler tedarikcileri listelemiyor. Montor aktif gorevlerinde ayni isin tekrar gorunmesi duzeltildi."
 }
