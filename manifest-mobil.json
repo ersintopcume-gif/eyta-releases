@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  65,
-    "version":  "6.13",
-    "notes":  "Gunluk Harekette arama (paket icerigi dahil, Turkce karakter gerekmez). CIKIS - Uretim artik bolum + personel soruyor. Yeni Tedarikciler sayfasi: ekle, duzenle, sil. GIRIS - Satin Alma\u0027da tedarikci ve alis fiyati. Musteri seciciler tedarikcileri listelemiyor. Montor aktif gorevlerinde ayni isin tekrar gorunmesi duzeltildi."
+    "build":  66,
+    "version":  "6.14",
+    "notes":  "Ana ekranda MUSTERI \u0026 TEDARIKCI: tek cari ekrani (Tumu/Musteri/Tedarikci sekmeleri, arama, ekleme ayni ekranda); cariye dokununca alis-satis hareketleri. Ana ekranda URETIME CIKIS: bolum ve personeli bir kez sec, arka arkaya malzeme cik. Ana ekranda SATIN ALMA: tedarikciyi bir kez sec, malzemeleri seri gir. Montor listesinde kapanmis revizyonlarin ve ayni isin tekrar gorunmesi duzeltildi."
 }
