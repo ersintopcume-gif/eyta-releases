@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  69,
-    "version":  "6.17",
-    "notes":  "DUZELTME: Stok Hareketi ekrani neden degistirilince hata veriyordu (ayni secim kutusu her seferinde yeniden sarmalaniyordu) - duzeltildi. LISTE TAMAMLANDI: eksik olan \u0027GIRIS - Uretim\u0027 (uretilen urunun stoga girmesi) eklendi; ayrica \u0027GIRIS - Uretimden Iade\u0027 (kullanilmayan malzemenin geri donmesi). Neden adlari eski kayitlarla birebir ayni tutuldu, raporlar ayni sekilde grupluyor. GIRIS 5, CIKIS 9, DUZELTME 2 neden."
+    "build":  70,
+    "version":  "6.18",
+    "notes":  "ANA MENU: kartlar ise gore gruplandi (GUNLUK IS / SAHA / SATIS \u0026 SATIN ALMA / URETIM), en cok kullanilan Stok Hareketi uste alindi ve vurgulandi. OLU EKRANLAR: hicbir yerden acilmayan uc sayfa kaldirildi; ise yarayan uc tanesi baglandi - Proje detayinda EK MALZEME ve TARIHLER, montorde PERFORMANS, ana menude URETIM EMIRLERI."
 }
