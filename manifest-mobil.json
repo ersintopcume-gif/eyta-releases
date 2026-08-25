@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  66,
-    "version":  "6.14",
-    "notes":  "Ana ekranda MUSTERI \u0026 TEDARIKCI: tek cari ekrani (Tumu/Musteri/Tedarikci sekmeleri, arama, ekleme ayni ekranda); cariye dokununca alis-satis hareketleri. Ana ekranda URETIME CIKIS: bolum ve personeli bir kez sec, arka arkaya malzeme cik. Ana ekranda SATIN ALMA: tedarikciyi bir kez sec, malzemeleri seri gir. Montor listesinde kapanmis revizyonlarin ve ayni isin tekrar gorunmesi duzeltildi."
+    "build":  67,
+    "version":  "6.15",
+    "notes":  "ARAMA DUZELTMELERI: Stokta arama artik kategoriye takilmiyor - hirdavattaki urunu hammadde ekraninda aratsan da bulunur. \u0027civata\u0027 gibi kucuk harf aramalar Turkce I harfi yuzunden bulunamiyordu, tum ekranlarda duzeltildi (uretime cikis, satin alma, cariler, alim girisi). CARI HESABI: paket satislar artik tek satir - dokununca icindeki malzemeler acilir; perakende ve alislar tek tek kalir."
 }
