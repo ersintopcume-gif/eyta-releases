@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-08-11",
-    "releaseNotes":  "Konfigurator: kaydetme duzeltildi (UpdateSourceTrigger=PropertyChanged - saf MVVM, code-behind yok). \u0027Kod\u0027 kaldirildi - parametreyi ADIYLA cagir ([Ray Arasi] veya bosluksuz RayArasi). HESAPLA kaydetmeden ekrandaki formulleri de calistirir.",
-    "version":  "1.0.69",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.69/eyta-v1.0.69.zip"
+    "releaseDate":  "2026-08-25",
+    "releaseNotes":  "Stok Hareketleri\u0027ne arama cubugu (ARA butonu, tum alanlarda arar). Uretime cikis: bolum + personel ile kaydediliyor, artik satis olarak gecmiyor. Satin Alma: tedarikci karti + Alim Girisi ekrani. NOT: Kabin Olcu Formu bu surumde degismedi.",
+    "version":  "1.0.70",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.70/eyta-v1.0.70.zip"
 }
