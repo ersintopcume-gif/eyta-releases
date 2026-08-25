@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  70,
-    "version":  "6.18",
-    "notes":  "ANA MENU: kartlar ise gore gruplandi (GUNLUK IS / SAHA / SATIS \u0026 SATIN ALMA / URETIM), en cok kullanilan Stok Hareketi uste alindi ve vurgulandi. OLU EKRANLAR: hicbir yerden acilmayan uc sayfa kaldirildi; ise yarayan uc tanesi baglandi - Proje detayinda EK MALZEME ve TARIHLER, montorde PERFORMANS, ana menude URETIM EMIRLERI."
+    "build":  71,
+    "version":  "6.19",
+    "notes":  "TEMA VE ORTAK BILESENLER: Renkler tek kaynaga baglandi (Tema). Onceden 197 yerde elle yazilmis renk kodu vardi, ayni 8 renk onlarca kez tekrar ediyordu; bir rengi degistirmek butun dosyalari elden gecirmek demekti. Ayrica ortak bilesen seti (Bilesen) eklendi - kart, etiket, cerceve, sekme, arama cubugu, bos liste mesaji tek yerden geliyor. Gorunum artik tek yerden degisiyor."
 }
