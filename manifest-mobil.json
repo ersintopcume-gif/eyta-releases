@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  68,
-    "version":  "6.16",
-    "notes":  "TEK HAREKET EKRANI: stok giris/cikis/duzeltme artik tek yerde. Dort ayri sayfa (Stok Hareket, Satin Alma, Uretime Cikis + 15 maddelik acilir liste) birlestirildi. Yon icin uc buyuk dugme (GIRIS/CIKIS/DUZELTME), neden icin dokunmatik etiketler - acilir liste yok. Seri calisma: kayittan sonra yon, neden ve baglam yerinde kalir, sadece urun ve miktar temizlenir. ONAY PENCERESI KALKTI: kayit sessiz yapilir, altta 6 saniye GERI AL seridi cikar. Stok kartindan da ayni ekran acilir, urun secili gelir."
+    "build":  69,
+    "version":  "6.17",
+    "notes":  "DUZELTME: Stok Hareketi ekrani neden degistirilince hata veriyordu (ayni secim kutusu her seferinde yeniden sarmalaniyordu) - duzeltildi. LISTE TAMAMLANDI: eksik olan \u0027GIRIS - Uretim\u0027 (uretilen urunun stoga girmesi) eklendi; ayrica \u0027GIRIS - Uretimden Iade\u0027 (kullanilmayan malzemenin geri donmesi). Neden adlari eski kayitlarla birebir ayni tutuldu, raporlar ayni sekilde grupluyor. GIRIS 5, CIKIS 9, DUZELTME 2 neden."
 }
