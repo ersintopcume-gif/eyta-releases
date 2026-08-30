@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  72,
-    "version":  "7.0",
-    "notes":  "Personel girisi ve yetki sistemi; barkod/karekod okutma; etiket basimi; baglanti bilgisi telefonda saklaniyor (ilk acilista kurulum ekrani); cari hesap ve gunluk hareket duzeltmeleri; anlasilir hata mesajlari"
+    "build":  73,
+    "version":  "7.1",
+    "notes":  "ACIL DUZELTME: 7.0 acilista cokuyordu (barkod kutuphanesi Android bilesenlerini iki kez yukluyordu). Kamerayla okutma gecici olarak kapatildi; Bluetooth/USB okuyucu ve elle arama calisiyor. Personel girisi, yetki sistemi ve diger duzeltmeler yerinde."
 }
