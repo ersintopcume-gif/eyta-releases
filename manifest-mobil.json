@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  78,
-    "version":  "7.6",
-    "notes":  "Kamerayla barkod ve QR okutma geri geldi; stok hareketi ekrani sadelestirildi (kaydirmasiz); giris her acilista sorulmuyor, sadece cikis yapinca; guncelleme otomatik kontrol edilir ve indirme yuzde ile gorunur"
+    "build":  79,
+    "version":  "7.7",
+    "notes":  "Menu ve stok ekrani kutucuk izgarasina cevrildi - tek ekrana sigiyor; malzeme secme ve perakende satis ekranlarina OKUT eklendi; neden adlari netlestirildi (Uretimden/Uretime/Projeye Ek Malzeme)"
 }
