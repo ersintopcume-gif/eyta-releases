@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  80,
+    "build":  82,
     "version":  "1.0",
-    "notes":  "Barkod okutma artik veritabanina da soruyor - ekranin listesi bos ya da bayat olsa bile kod bulunur. Pasif kart okutulursa sebebi soylenir. Surum numarasi sifirlandi."
+    "notes":  "Malzeme ekle ekraninda okutma artik veritabanina da soruyor. Stok kartina barkod atama dugmesi acildi (STOK - kart - Barkod yanindaki OKUT). Eslesmeyen kodda ne yapilacagi yaziliyor."
 }
