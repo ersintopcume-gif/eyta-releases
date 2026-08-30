@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  87,
+    "build":  88,
     "version":  "1.0",
-    "notes":  "Stok hareketi ekranina yetki kapilari ve stok yetersizlik uyarisi eklendi. Kritik stok uyarisi duzeltildi: artik \u0027stokta yok\u0027 ve \u0027azaliyor\u0027 ayri. Oturum 12 saat kullanilmazsa duser, cihaz yedeklemesi kapatildi. Hatalar telefonda kaydediliyor, menuden gonderilebiliyor. Baglanti havuzu ayarlari duzeltildi."
+    "notes":  "Hiz: montor listesi 27 sorgu yerine 1 sorgu; urun siparis ekrani veriyi sunucuda suzuyor; alti ekran her acilista tum tabloyu yeniden indirmiyor. Barkod titresimi artik yalniz ESLESME olunca calisiyor - eslesmezse cift titresim."
 }
