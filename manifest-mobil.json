@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  71,
-    "version":  "6.19",
-    "notes":  "TEMA VE ORTAK BILESENLER: Renkler tek kaynaga baglandi (Tema). Onceden 197 yerde elle yazilmis renk kodu vardi, ayni 8 renk onlarca kez tekrar ediyordu; bir rengi degistirmek butun dosyalari elden gecirmek demekti. Ayrica ortak bilesen seti (Bilesen) eklendi - kart, etiket, cerceve, sekme, arama cubugu, bos liste mesaji tek yerden geliyor. Gorunum artik tek yerden degisiyor."
+    "build":  72,
+    "version":  "7.0",
+    "notes":  "Personel girisi ve yetki sistemi; barkod/karekod okutma; etiket basimi; baglanti bilgisi telefonda saklaniyor (ilk acilista kurulum ekrani); cari hesap ve gunluk hareket duzeltmeleri; anlasilir hata mesajlari"
 }
