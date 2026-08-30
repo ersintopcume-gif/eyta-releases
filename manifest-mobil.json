@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  83,
+    "build":  84,
     "version":  "1.0",
-    "notes":  "Malzeme ekle ekranlarinda okutma duzeldi: kod okunduktan sonra sayfa gecisi ile kamera kapanisi ayni anda calisip birbirini yutuyordu. Ek malzeme ekranina EKLE eklendi ve yanlis \u0027hepsi sevk edildi\u0027 yazisi duzeltildi."
+    "notes":  "Stok ekranina OKUT eklendi. Her ekranin ust kosesine ana menuye donus dugmesi (ev simgesi) kondu - derin akislardan tek dokunusla menuye. Stok sekmesinde eksik olan MAMUL ve PARCA kategorileri eklendi."
 }
