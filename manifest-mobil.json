@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  79,
-    "version":  "7.7",
-    "notes":  "Menu ve stok ekrani kutucuk izgarasina cevrildi - tek ekrana sigiyor; malzeme secme ve perakende satis ekranlarina OKUT eklendi; neden adlari netlestirildi (Uretimden/Uretime/Projeye Ek Malzeme)"
+    "build":  80,
+    "version":  "1.0",
+    "notes":  "Barkod okutma artik veritabanina da soruyor - ekranin listesi bos ya da bayat olsa bile kod bulunur. Pasif kart okutulursa sebebi soylenir. Surum numarasi sifirlandi."
 }
