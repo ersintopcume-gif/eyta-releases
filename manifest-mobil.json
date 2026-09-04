@@ -1,6 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  93,
-    "version":  "1.0",
-    "notes":  "Belgesi olmayan hareketler artik geri alinabiliyor - uretime cikis ve satin alma girisleri hicbir belgeye bagli degil, buna ragmen \u0027belgeden geri alin\u0027 deniyordu. Gercekten belgeye bagli olanlarda ise BAKIYEYI DUZELT secenegi eklendi: hareket ve belge degismeden stok sayisi duzeliyor."
+    "sha256":  "0A9BBCDE6F887BB502AAD6756F92920D6E7799FBD3F2F96FF2089F442225F91A",
+    "build":  94,
+    "version":  "1.1",
+    "notes":  "Miktar duzeltme ve iptal artik neden yapilamadigini dogru soyluyor: engel cogu zaman \u0027bagli hareket\u0027 degil, ara adimda bakiyenin eksiye dusmesiydi - onay verip devam edebiliyorsun. Paket ekranina SERI OKUT geldi (kamera acik kalir, okutulan kalem sevke isaretlenir). Stok listesi sikistirildi. Menuden HAREKET/STOK artik ikinci kopya acmiyor. Guncelleme dosyasi SHA-256 ile dogrulaniyor. Olu ekranlar ve 159 MB eski APK temizlendi."
 }
