@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "F5AEC2E2DC1ECD9A7176312E2F0BD54A2506C98C2C05B90D064F2DFBCEB7EB60",
-    "build":  101,
+    "sha256":  "238D3B497A47FA629E1E7D8A0CF77FA9DC2DAA828EAE31AB8052E1489C069813",
+    "build":  102,
     "version":  "1.3",
-    "notes":  "CEVRIMDISI CALISMA (ilk asama): sinyal yokken stok listesi artik gorunuyor - telefonda saklanan son liste kullaniliyor. Kuyuda, bodrumda, metal raf arasinda ekran bos kalmiyor. Kayit hala canli baglanti istiyor; ekranda kirmizi serit bunu acikca soyluyor ve listenin ne zaman kaydedildigini yaziyor."
+    "notes":  "Urun secenekleri (kapasite, kaplama, pano turu, tavan modeli...) artik veritabanindan geliyor. Yeni bir kapasite eklemek icin APK dagitmak gerekmiyor - veritabanina eklenince hem mobilde hem masaustunde cikiyor. Cevrimdisi telefonda koda gomulu yedek liste kullaniliyor."
 }
