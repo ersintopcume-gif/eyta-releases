@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  91,
+    "build":  92,
     "version":  "1.0",
-    "notes":  "Beklenmeyen hatalarda teknik satir artik ekranda gosteriliyor - okuyup iletebilmen icin. \u0027Kaynak belge uzerinden geri alinmalidir\u0027 mesaji artik ne yapabilecegini de soyluyor."
+    "notes":  "URETIME CIKIS DUZELDI: depo bakiye tablosunda URETIM_CIKIS ve URETIM_IADE eslemesi eksikti, kayit hic yapilamiyordu. Ayrica Turkce is mesajlari artik \u0027beklenmeyen hata\u0027 diye gizlenmiyor."
 }
