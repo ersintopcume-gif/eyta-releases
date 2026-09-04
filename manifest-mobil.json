@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  89,
+    "build":  91,
     "version":  "1.0",
-    "notes":  "DUZELTME: stok yetersizken uretime cikis yapilamiyordu. Yetersizlik artik engel degil uyari - bilgi verilip karar kullaniciya birakiliyor."
+    "notes":  "Beklenmeyen hatalarda teknik satir artik ekranda gosteriliyor - okuyup iletebilmen icin. \u0027Kaynak belge uzerinden geri alinmalidir\u0027 mesaji artik ne yapabilecegini de soyluyor."
 }
