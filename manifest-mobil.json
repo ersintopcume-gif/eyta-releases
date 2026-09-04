@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "1C37C78DE92439BB92CE888370F07677F873A278E92D0E8170FE23131C965D67",
-    "build":  103,
+    "sha256":  "706463B1192DE19C099BEBA3B078637B16412FD0526BDDA390DF1F84F5CF6104",
+    "build":  104,
     "version":  "1.3",
-    "notes":  "Cevrimdisiyken kaydetmeye kalkmadan once uyariliyorsun - malzeme secip miktar yazip sonra hata almiyorsun. \u0027Internet yok\u0027 ile \u0027sunucuya ulasilamadi\u0027 artik ayri: internet hic yoksa kaydin yapilmadigi kesin soyleniyor, varsa yapilmis olabilecegi uyarisi veriliyor. Ayrica mobil is kurallari icin ilk test seti eklendi (32 test)."
+    "notes":  "Perakende satis artik FIYATLI kaydediliyor. Alis fiyatli, satis fiyatsiz giriyordu; cari hesap bakiyesi bu yuzden anlamsizdi. Stok hareketi ekranindaki Musteri Perakende Satisi nedeni de fiyat aliyor."
 }
