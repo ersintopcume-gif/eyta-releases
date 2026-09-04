@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  88,
+    "build":  89,
     "version":  "1.0",
-    "notes":  "Hiz: montor listesi 27 sorgu yerine 1 sorgu; urun siparis ekrani veriyi sunucuda suzuyor; alti ekran her acilista tum tabloyu yeniden indirmiyor. Barkod titresimi artik yalniz ESLESME olunca calisiyor - eslesmezse cift titresim."
+    "notes":  "DUZELTME: stok yetersizken uretime cikis yapilamiyordu. Yetersizlik artik engel degil uyari - bilgi verilip karar kullaniciya birakiliyor."
 }
