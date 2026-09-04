@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "build":  92,
+    "build":  93,
     "version":  "1.0",
-    "notes":  "URETIME CIKIS DUZELDI: depo bakiye tablosunda URETIM_CIKIS ve URETIM_IADE eslemesi eksikti, kayit hic yapilamiyordu. Ayrica Turkce is mesajlari artik \u0027beklenmeyen hata\u0027 diye gizlenmiyor."
+    "notes":  "Belgesi olmayan hareketler artik geri alinabiliyor - uretime cikis ve satin alma girisleri hicbir belgeye bagli degil, buna ragmen \u0027belgeden geri alin\u0027 deniyordu. Gercekten belgeye bagli olanlarda ise BAKIYEYI DUZELT secenegi eklendi: hareket ve belge degismeden stok sayisi duzeliyor."
 }
