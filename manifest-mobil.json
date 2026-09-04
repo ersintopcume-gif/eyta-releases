@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "706463B1192DE19C099BEBA3B078637B16412FD0526BDDA390DF1F84F5CF6104",
-    "build":  104,
-    "version":  "1.3",
-    "notes":  "Perakende satis artik FIYATLI kaydediliyor. Alis fiyatli, satis fiyatsiz giriyordu; cari hesap bakiyesi bu yuzden anlamsizdi. Stok hareketi ekranindaki Musteri Perakende Satisi nedeni de fiyat aliyor."
+    "sha256":  "69A05C4BDF1A1C2B46C824886663F4E74657C4D413AB8ED2E611425132DBC583",
+    "build":  105,
+    "version":  "1.4",
+    "notes":  "Paket ekranina LISTEYI PAYLAS eklendi - montor 30-40 kalemlik listeyi WhatsApp ile sahaya alabiliyor, durum isaretleriyle birlikte. Fotograf cekip paylasma geldi: hasarli malzeme yerinde belgelenip gonderilebiliyor. Ayni ikisi gunluk hareket detayinda da var."
 }
