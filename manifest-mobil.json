@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "6E5E4326274780C147870CBD8C83A41430C9EC07BF944B15FA46593444E2B627",
-    "build":  96,
+    "sha256":  "704129B2C52200C49CEBA815B30513DA5E84ACED457ADFAF5E7C743C1490E208",
+    "build":  97,
     "version":  "1.1",
-    "notes":  "GECMISE DONUK KAYIT: stok hareketi ekranina tarih alani eklendi - giris, satin alma, uretime cikis, proje cikisi ve perakende satis gecmis bir gune yazilabiliyor. Ileri tarih kapali. Duzeltme/iptal basarisiz olursa artik sebebi yaziyor (istisna yutuluyordu). Projeler ekrani arka plana alindi ve tarama kaldirildi."
+    "notes":  "Hiz ve temizlik: liste satirlarindaki 22 eski gorsel katman yenisiyle degistirildi (kaydirma akiciligi), Projeler ve Urun Siparis ekranlari arka plana alindi, geri al seridindeki bellek sizintisi kapatildi. Onceki surumdeki gecmise donuk tarih ve duzeltme sebebi de bu surumde."
 }
