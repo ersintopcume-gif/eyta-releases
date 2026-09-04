@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "704129B2C52200C49CEBA815B30513DA5E84ACED457ADFAF5E7C743C1490E208",
-    "build":  97,
-    "version":  "1.1",
-    "notes":  "Hiz ve temizlik: liste satirlarindaki 22 eski gorsel katman yenisiyle degistirildi (kaydirma akiciligi), Projeler ve Urun Siparis ekranlari arka plana alindi, geri al seridindeki bellek sizintisi kapatildi. Onceki surumdeki gecmise donuk tarih ve duzeltme sebebi de bu surumde."
+    "sha256":  "747836530D8A0D89CDD302B814EB82596C25D9268136D5DC31BC9F7408C852F7",
+    "build":  98,
+    "version":  "1.2",
+    "notes":  "SIFRE KORUMASI: sifresi belirlenmemis bir hesabi artik adini bilen herkes alamiyor - yoneticiden alinan 6 haneli kod gerekiyor. Sifre ozeti PBKDF2\u0027ye tasindi (mevcut sifreler bozulmadan, ilk giriste sessizce yukseltiliyor). Asgari 8 karakter, 5 hatali denemede kademeli kilit. Uretim hareketleri artik iptal ve duzeltme yapilabiliyor (ters hareket eslemesi eksikti)."
 }
