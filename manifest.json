@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-09-07",
-    "releaseNotes":  "3B onizleme duvar panelleri, isik ve hiz duzeltmeleri; 0.9mm PANEL katalogdan",
-    "version":  "1.0.71",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.71/eyta-v1.0.71.zip"
+    "releaseNotes":  "KRITIK duzeltme: parca katalogu exe\u0027ye gomuldu - v1.0.71\u0027de katalog dosyasi pakete girmedigi icin DXF uretimi durabilirdi. Ayrica 3B onizleme duvar panelleri, isik ve hiz duzeltmeleri.",
+    "version":  "1.0.72",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.72/eyta-v1.0.72.zip"
 }
