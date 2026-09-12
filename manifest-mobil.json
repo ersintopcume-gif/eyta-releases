@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "69A05C4BDF1A1C2B46C824886663F4E74657C4D413AB8ED2E611425132DBC583",
-    "build":  105,
-    "version":  "1.4",
-    "notes":  "Paket ekranina LISTEYI PAYLAS eklendi - montor 30-40 kalemlik listeyi WhatsApp ile sahaya alabiliyor, durum isaretleriyle birlikte. Fotograf cekip paylasma geldi: hasarli malzeme yerinde belgelenip gonderilebiliyor. Ayni ikisi gunluk hareket detayinda da var."
+    "sha256":  "878CD34CDAE494ECF8056D470E267EA5B62456EC2CAA4CED624822BC57147060",
+    "build":  113,
+    "version":  "1.5",
+    "notes":  "CEVRIMDISI CALISMA: sinyal yokken girilen stok hareketi telefonda saklanir, baglanti gelince kendiliginden gonderilir - ayni kayit iki kez islenmez. Menude bekleyen sayisi gorunur. PERSONEL YONETIMI: yonetici artik yetkileri telefondan verebiliyor (ilk giris kodu, sifre sifirlama, telefon bagi). PROJE ACMA yetkisi projeler ekrani olan personele verildi. SATIS FIYATI maliyetten ayrildi: kasa artik satis fiyatindan yazar, kartta yoksa sorar. URETIM EMRI durum degisimi artik yetki ve onay istiyor. Ayrica: barkod okutma tum ekranlarda ayni, arama cok kelimeli, montor gorev turu isten aliniyor, guncelleme dosyasi zorunlu dogrulaniyor."
 }
