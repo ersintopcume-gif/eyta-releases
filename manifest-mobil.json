@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "878CD34CDAE494ECF8056D470E267EA5B62456EC2CAA4CED624822BC57147060",
-    "build":  113,
+    "sha256":  "3845AC559B8783572A0FB217F2990B3DCE3678DD763FE4D9E62C0F8DF0CEA5BB",
+    "build":  114,
     "version":  "1.5",
-    "notes":  "CEVRIMDISI CALISMA: sinyal yokken girilen stok hareketi telefonda saklanir, baglanti gelince kendiliginden gonderilir - ayni kayit iki kez islenmez. Menude bekleyen sayisi gorunur. PERSONEL YONETIMI: yonetici artik yetkileri telefondan verebiliyor (ilk giris kodu, sifre sifirlama, telefon bagi). PROJE ACMA yetkisi projeler ekrani olan personele verildi. SATIS FIYATI maliyetten ayrildi: kasa artik satis fiyatindan yazar, kartta yoksa sorar. URETIM EMRI durum degisimi artik yetki ve onay istiyor. Ayrica: barkod okutma tum ekranlarda ayni, arama cok kelimeli, montor gorev turu isten aliniyor, guncelleme dosyasi zorunlu dogrulaniyor."
+    "notes":  "DUZELTME: Projeler ekraninda + PROJE dugmesine basinca uygulama kapaniyordu - proje formu artik normal aciliyor. Ayrica beklenmeyen bir hata olustugunda uygulama artik kapanmiyor: ne oldugu soyleniyor ve yarim kalan is kaybolmuyor. (v1.5 icerigi: cevrimdisi kayit kuyrugu, personel yonetimi menude, satis fiyati maliyetten ayri, uretim emri onay+yetki.)"
 }
