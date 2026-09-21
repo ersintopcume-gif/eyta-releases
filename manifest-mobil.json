@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "3845AC559B8783572A0FB217F2990B3DCE3678DD763FE4D9E62C0F8DF0CEA5BB",
-    "build":  114,
-    "version":  "1.5",
-    "notes":  "DUZELTME: Projeler ekraninda + PROJE dugmesine basinca uygulama kapaniyordu - proje formu artik normal aciliyor. Ayrica beklenmeyen bir hata olustugunda uygulama artik kapanmiyor: ne oldugu soyleniyor ve yarim kalan is kaybolmuyor. (v1.5 icerigi: cevrimdisi kayit kuyrugu, personel yonetimi menude, satis fiyati maliyetten ayri, uretim emri onay+yetki.)"
+    "sha256":  "C8DD182D064F1E79148D14BA690DEEA576B5EE7398F7BA811CFDC935A82F63DC",
+    "build":  115,
+    "version":  "1.6",
+    "notes":  "TARIH SECIMI DUZELDI: takvim artik 1900-den degil bugunden aciliyor, yil listesi kisa - kaydirmadan secebilirsiniz. Revizyon tarih satirina BUGUN dugmesi geldi, tek dokunusla kapatabilirsiniz. Ayni duzeltme sekiz tarih alaninin hepsinde. AKTIFE AL: yanlislikla kapatilan montaj, ray kapi ve revizyon geri acilabiliyor. Proje ve revizyon detayinda AKTIFE AL dugmesi var; cikis tarihleri temizleniyor, is TAMAMLANAN-dan AKTIF-e donuyor ve malzeme sevkiyatina devam edilebiliyor. Montorun gorevi de yeniden devam ediyor durumuna geciyor. Paket ekranindaki cikis tarihi artik x ile temizlenebiliyor - onceden bir kez konunca geri alinamiyordu."
 }
