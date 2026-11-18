@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-18",
-    "releaseNotes":  "Cikti: carpi yerine kutucuk+tik (sevk ve isaretli yesil/mavi, bos beyaz). Simge fontu acikca veriliyor. SEVK ET artik yalnizca miktar degistiginde de calisiyor. Guncelleyici %TEMP% kullanmiyor: Turkce harfli kullanici adinda TEMP 8.3 kisa forma donusup cozulemiyordu.",
-    "version":  "1.0.77",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.77/eyta-v1.0.77.zip"
+    "releaseNotes":  "Cikti kunyesi: \u0027TURAN KONUT - RAY KAPI (800 kg)\u0027 / adres / \u0027MRL - MAKINE DAIRESIZ ASANSOR - YANDAN AGIRLIK\u0027 / \u00274 DURAK - SOLA TOPLAR\u0027. Carpi yerine kutucuk+tik, simge fontu acikca veriliyor. SEVK ET yalnizca miktar degistiginde de calisiyor. Guncelleyici artik %TEMP% kullanmiyor (Turkce harfli kullanici adinda 8.3 kisa yol sorunu).",
+    "version":  "1.0.78",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.78/eyta-v1.0.78.zip"
 }
