@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-18",
-    "releaseNotes":  "Ciktida tik yalnizca sevk edilen satirlarda. Kaydedilmis (mavi) satirlar bos kutucuk ile gosteriliyor.",
-    "version":  "1.0.79",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.79/eyta-v1.0.79.zip"
+    "releaseNotes":  "Yeni asamalar: KAPI KAPAMA ve ASKIYA ALMA. Her birinin kendi montoru, tarihi ve paket sablonu var. Montor ekraninda iki yeni sutun, proje listesinde KAPAMA ve ASKI dugmeleri. Asama secilmezse is toplamada yapilmis sayilir.",
+    "version":  "1.0.80",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.80/eyta-v1.0.80.zip"
 }
