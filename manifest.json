@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-18",
-    "releaseNotes":  "Cikti: en ustte proje kunyesi (proje, adres, asansor tipi/agirlik yonu, durak-kapasite-toplar, ray/halat/duvar/agirlik olculeri). Satirlar ekrandaki gibi renkli: sevk yesil, isaretli mavi, bos beyaz. RAY KAPI ciktisinda grup adi yazilmiyor, eklenen malzeme ayri sayfa acmiyor.",
-    "version":  "1.0.76",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.76/eyta-v1.0.76.zip"
+    "releaseNotes":  "Cikti: carpi yerine kutucuk+tik (sevk ve isaretli yesil/mavi, bos beyaz). Simge fontu acikca veriliyor. SEVK ET artik yalnizca miktar degistiginde de calisiyor. Guncelleyici %TEMP% kullanmiyor: Turkce harfli kullanici adinda TEMP 8.3 kisa forma donusup cozulemiyordu.",
+    "version":  "1.0.77",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.77/eyta-v1.0.77.zip"
 }
