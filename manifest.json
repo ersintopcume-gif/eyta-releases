@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-18",
-    "releaseNotes":  "Guncelleyici duzeltmesi: betik artik BOM\u0027lu UTF-8 yaziliyor. Turkce harf iceren kullanici/klasor adlarinda (ornek: Ersin Topcu) yol bozuluyor ve guncelleme \u0027tamamlanamadi\u0027 diyordu. Olculdu: bomsuz basarisiz, bomlu basarili.",
-    "version":  "1.0.75",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.75/eyta-v1.0.75.zip"
+    "releaseNotes":  "Cikti: en ustte proje kunyesi (proje, adres, asansor tipi/agirlik yonu, durak-kapasite-toplar, ray/halat/duvar/agirlik olculeri). Satirlar ekrandaki gibi renkli: sevk yesil, isaretli mavi, bos beyaz. RAY KAPI ciktisinda grup adi yazilmiyor, eklenen malzeme ayri sayfa acmiyor.",
+    "version":  "1.0.76",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.76/eyta-v1.0.76.zip"
 }
