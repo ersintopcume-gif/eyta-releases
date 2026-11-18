@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-18",
-    "releaseNotes":  "Paket sablonunda miktar artik yazilabiliyor: 2*durak, durak-1, 3*durak+2, (durak+1)/2, max(durak-2,0). Uzun Tip listesi yerine Formul alani. Formul bossa eski Sabit/DurakBasi/Ofset alanlari aynen calisir. Bozuk formul kaydedilmez, uyarir.",
-    "version":  "1.0.81",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.81/eyta-v1.0.81.zip"
+    "releaseNotes":  "Montor artik tek liste: bir kisi tek kayit, calistigi asamalar o kaydin ozelligi. Ayni montor birden fazla asamada olabiliyor, mukerrer kayit acilmiyor. Silme artik kisiyi degil o asamadan cikariyor. BOM bileseninde miktar yerine formul yazilabiliyor (2*durak, durak-1); formul yoksa hicbir sey degismez.",
+    "version":  "1.0.82",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.82/eyta-v1.0.82.zip"
 }
