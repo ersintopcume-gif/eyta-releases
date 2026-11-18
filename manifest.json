@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-09-07",
-    "releaseNotes":  "KRITIK duzeltme: parca katalogu exe\u0027ye gomuldu - v1.0.71\u0027de katalog dosyasi pakete girmedigi icin DXF uretimi durabilirdi. Ayrica 3B onizleme duvar panelleri, isik ve hiz duzeltmeleri.",
-    "version":  "1.0.72",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.72/eyta-v1.0.72.zip"
+    "releaseDate":  "2026-11-18",
+    "releaseNotes":  "Paket listesi yazdirma: RAY KAPI ve MONTAJ\u0027in her grubunda YAZDIR, onizlemeli. Her grup tek sayfa. Grup ekraninda yalniz o grup basilir.",
+    "version":  "1.0.73",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.73/eyta-v1.0.73.zip"
 }
