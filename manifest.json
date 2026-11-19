@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-19",
-    "releaseNotes":  "Cikti: iki durum sutunu - YUKLENECEK (kaydedilenler, bos kutucuk: depoda yuklerken tiklenir) ve SEVK EDILDI (dolu kutucuk). Gidecek ile gitmis ayni anda goruluyor; ayrim artik renge bagli degil, siyah-beyaz yazicida da okunuyor.",
-    "version":  "1.0.84",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.84/eyta-v1.0.84.zip"
+    "releaseNotes":  "EYTA logosu uygulamalara gomuldu: gorev cubugu, pencere kosesi ve kisayollar artik varsayilan .NET ikonu yerine firma logosunu gosteriyor (Uretim ve Personel).",
+    "version":  "1.0.85",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.85/eyta-v1.0.85.zip"
 }
