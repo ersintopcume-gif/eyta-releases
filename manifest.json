@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-19",
-    "releaseNotes":  "SEVK GERI ALMA: paket ekranina \u0027SEVK GERI AL\u0027 dugmesi eklendi (secili yesil satirlar, stok iade). Geri alma ekrani artik elle eklenen malzemeleri de gosteriyor (124 kayit) ve sablon kalemi silinmis 89 kayit da gorunur oldu; geri alinamiyorsa sebebi yaziliyor",
-    "version":  "1.0.89",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.89/eyta-v1.0.89.zip"
+    "releaseNotes":  "KAPI KAPAMA ve ASKIYA ALMA varyantlara ayrildi: makine daireli / makine dairesiz-yandan / makine dairesiz-arkadan (montaj paketiyle ayni kalip, tek liste). Proje asansor tipi ve agirlik yonune gore dogru listeyi aciyor. Paket turu secimi sekiz dosyadaki kopyadan tek kapiya alindi",
+    "version":  "1.0.90",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.90/eyta-v1.0.90.zip"
 }
