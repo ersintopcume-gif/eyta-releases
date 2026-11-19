@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-19",
-    "releaseNotes":  "EYTA logosu uygulamalara gomuldu: gorev cubugu, pencere kosesi ve kisayollar artik varsayilan .NET ikonu yerine firma logosunu gosteriyor (Uretim ve Personel).",
-    "version":  "1.0.85",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.85/eyta-v1.0.85.zip"
+    "releaseNotes":  "Montor performansi asamalara ayrildi (askiya alma/kapi kapama artik performansa dusuyor), gun hesabi: giris+cikis toplam 1 gun, proje listesi sutunlari daraltildi ve proses butonlari yumusak renklere alindi",
+    "version":  "1.0.86",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.86/eyta-v1.0.86.zip"
 }
