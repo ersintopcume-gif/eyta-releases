@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-19",
-    "releaseNotes":  "Montor performansi asamalara ayrildi (askiya alma/kapi kapama artik performansa dusuyor), gun hesabi: giris+cikis toplam 1 gun, proje listesi sutunlari daraltildi ve proses butonlari yumusak renklere alindi",
-    "version":  "1.0.86",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.86/eyta-v1.0.86.zip"
+    "releaseNotes":  "Paket sablonlarina ADET x BIRIM UZUNLUK eklendi (halat/NPU gibi parca parca cikan malzemeler; ikisi de durak formulu kabul eder, stok karti kg tutuyorsa kg/metre ile cevrilir). Proje listesinde prosesler RAY KAPI ve MONTAJ olarak ikiye indirildi; kapi kapama ve askiya alma montaj tarafinda gorunuyor",
+    "version":  "1.0.87",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.87/eyta-v1.0.87.zip"
 }
