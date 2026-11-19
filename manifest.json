@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-19",
-    "releaseNotes":  "Adet x uzunluk artik PROJE tarafinda da: miktar hucresine basinca ADET x BIRIM UZUNLUK = TOPLAM penceresi aciliyor, elle eklenen malzemede de calisiyor. Listede ve ciktida \u00275 x 20 m\u0027 gorunuyor, toplam 100. Mobilde tek kutuya 5x20 yazilabiliyor",
-    "version":  "1.0.88",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.88/eyta-v1.0.88.zip"
+    "releaseNotes":  "SEVK GERI ALMA: paket ekranina \u0027SEVK GERI AL\u0027 dugmesi eklendi (secili yesil satirlar, stok iade). Geri alma ekrani artik elle eklenen malzemeleri de gosteriyor (124 kayit) ve sablon kalemi silinmis 89 kayit da gorunur oldu; geri alinamiyorsa sebebi yaziliyor",
+    "version":  "1.0.89",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.89/eyta-v1.0.89.zip"
 }
