@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-20",
-    "releaseNotes":  "Sayi girisi duzeldi: stok kartinda kg/metre gibi alanlara 10,8 yazinca 108 kaydediliyordu (WPF varsayilan en-US, virgulu binlik ayraci sayiyor). Artik virgul de nokta da kabul, belirsiz 1.500 alinmiyor. Yazdirmada YUKLE/SEVK/ADET x BOY basliklari tek satir. Yandan agirlikta SAG/SOL secimi eklendi",
-    "version":  "1.0.92",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.92/eyta-v1.0.92.zip"
+    "releaseNotes":  "Konsol artik ray kapi ile askiyi birbirine kilitlemiyor; silinmis kalemli sevkler geri alinabiliyor; yazdirma listesinde her satirda kutucuk ve KOD sutunu kalkti; mobilde kapama/aski ekranlari; stok kartinda Luca kodu ve satis fiyati",
+    "version":  "1.0.93",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.93/eyta-v1.0.93.zip"
 }
