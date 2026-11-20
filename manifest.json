@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-11-19",
-    "releaseNotes":  "KAPI KAPAMA ve ASKIYA ALMA varyantlara ayrildi: makine daireli / makine dairesiz-yandan / makine dairesiz-arkadan (montaj paketiyle ayni kalip, tek liste). Proje asansor tipi ve agirlik yonune gore dogru listeyi aciyor. Paket turu secimi sekiz dosyadaki kopyadan tek kapiya alindi",
-    "version":  "1.0.90",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.90/eyta-v1.0.90.zip"
+    "releaseDate":  "2026-11-20",
+    "releaseNotes":  "Adet x uzunluk artik AYRI SUTUNDA: ciktida \u0027ADET x UZUNLUK\u0027 sutunu var, yazilmamissa BOS kaliyor ki depo elle doldursun. Malzeme adinin yanina eklenmiyor. Ekranda ve mobilde de kendi sutununda/etiketinde",
+    "version":  "1.0.91",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.91/eyta-v1.0.91.zip"
 }
