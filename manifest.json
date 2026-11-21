@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-21",
-    "releaseNotes":  "Stok ekrani tek ekranda toplandi (kart detayi, stok hareket, Excel aktar/al). Proje listesi birlesti: montajli proje / paket satis suzgeci ve satis turu sutunu. Musteriler satis menusune tasindi, tedarikcilerden ayrildi. Cari ve proje adlari artik her zaman buyuk harf. Montor ve paket sablonlari dogru basliklara tasindi. Negatif stok bakiyeleri sifirlandi, profil kartlarina kg/metre eklendi.",
-    "version":  "1.0.94",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.94/eyta-v1.0.94.zip"
+    "releaseNotes":  "Paket sablonlarinda satir referansli formuller (FLANS50*8), sayim ekraninda kategori suzgeci, stok karti silme engeli okunur hale geldi, yedi islem hatasi duzeltildi",
+    "version":  "1.0.95",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.95/eyta-v1.0.95.zip"
 }
