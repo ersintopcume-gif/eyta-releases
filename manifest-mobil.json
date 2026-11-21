@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "76C36119F73D0B7A274E3976322FDEEB4A0362D477EFC1C0818F8A5586A1BBFD",
-    "build":  117,
-    "version":  "1.8",
-    "notes":  "Paket ekraninda satir referansli miktarlar: flanş sayisi girilince ona bagli civata/somun kendiliginden hesaplaniyor. Masaustuyle ayni hesap kapisi."
+    "sha256":  "1D88A194E27BA03058CB21BE71D87A0B95EEAC74E1E7A8B991D8157FFFB45655",
+    "build":  118,
+    "version":  "1.9",
+    "notes":  "Paket ekrani satir referansli miktarlari projeye ozel degerlerle cozuyor; 1.8\u0027de bagli satirlar (ornek FLANS50*8) mobilde 0 gorunuyordu. Turetilmis satirda kayitli miktar hesabi ezemez kurali eklendi."
 }
