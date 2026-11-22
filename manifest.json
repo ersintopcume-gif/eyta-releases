@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-22",
-    "releaseNotes":  "Puantaj: gunluk saat girisi, aylik cizelge, devamsizlik cizelgesi. Isci maliyeti puantajdan hesaplaniyor (kisi bazli TL/saat). Ayarlar\u0027a Yetkiler ekrani geldi - yetki atama artik menuden ulasilabiliyor. Sifre sifirlamada ilk giris kodu gosteriliyor.",
-    "version":  "1.0.96",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.96/eyta-v1.0.96.zip"
+    "releaseNotes":  "GUVENLIK: giris ekranindaki gomulu master sifre uc yerden kaldirildi (Uretim girisi, Personel girisi, sifreyi ekranda gosteren mesaj). Giris artik tek yoldan geciyor - hesap kilidi, deneme sayaci, aktiflik ve cihaz kontrolu dahil. Menu ilk kez yetkiyle suzuluyor. Geri alma sifresi giris sifresinden ayrildi. Sifresi unutulan hesap icin EYTA-Sifre-Kurtarma araci. Mobil tarafta bulunan eksi miktar sevki de engellendi.",
+    "version":  "1.0.97",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.97/eyta-v1.0.97.zip"
 }
