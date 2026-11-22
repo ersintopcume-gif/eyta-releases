@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "1D88A194E27BA03058CB21BE71D87A0B95EEAC74E1E7A8B991D8157FFFB45655",
-    "build":  118,
-    "version":  "1.9",
-    "notes":  "Paket ekrani satir referansli miktarlari projeye ozel degerlerle cozuyor; 1.8\u0027de bagli satirlar (ornek FLANS50*8) mobilde 0 gorunuyordu. Turetilmis satirda kayitli miktar hesabi ezemez kurali eklendi."
+    "sha256":  "C9BC729D5FED951FF565B4183A59CFE85182180BD177BA25AFB533D275D046B3",
+    "build":  119,
+    "version":  "2.0",
+    "notes":  "Paket ekrani yeniden duzenlendi: dugmeler iki sirada (EKLE/DUZENLE/SIL/PAYLAS - BARKOD/KAYDET/SEVK), montor-tarih karti tek sirada ve katlanabilir, liste yazilari buyudu. Listeye ayrilan alan iki satirdan 6-7 satira cikti. Fotograf dugmesi kaldirildi."
 }
