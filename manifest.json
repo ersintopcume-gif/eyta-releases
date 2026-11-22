@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-11-22",
-    "releaseNotes":  "Montorler Proje Takibi\u0027nin altina alindi; personelde AD DUZENLE; personel yonetimi ekrani acilmiyordu duzeldi; SURE sutunu en son biten isin suresini yaziyor; rezerv serbest birakma tek yere alindi ve kalan paya gore yapiliyor; Stok Mutabakat Raporu acik rezervi kalan uzerinden hesapliyor",
-    "version":  "1.1.7",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.7/eyta-v1.1.7.zip"
+    "releaseDate":  "2026-11-23",
+    "releaseNotes":  "Menu: Stok Kategorileri, Stok Esik Tanimlari, Proje Yari Mamul Takibi, Stok Girisi (Satin Alma) adlari duzeldi. Uretim Emri tek pencerede iki sekme (ac/takip). Yetkiler Personel ekranina girdi. Hatalar: manuel satis artik satis sayiliyor, kritik stok esigi tek kaynaktan, asama isleme kilitleniyor ve geri alinabiliyor, stok karti depo sekmesi gercek veriden, iptal edilmis hareket ayirt ediliyor. Malzeme Cikisi cift tuketim riski nedeniyle menuden cikarildi.",
+    "version":  "1.2.0",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.0/eyta-v1.2.0.zip"
 }
