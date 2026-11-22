@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-22",
-    "releaseNotes":  "Siparis ve Projeler ekranlari: sutun genislikleri, Excel aktarim, satir yazdirma.",
-    "version":  "1.1.1",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.1/eyta-v1.1.1.zip"
+    "releaseNotes":  "Siparis listesi ekrana tam sigiyor: ADRES sutunu kalan boslugu emiyor, boylece en sagdaki YAZDIR dugmesi ekran disinda kalmiyor. Adres tasarsa tamami ipucunda gorunuyor.",
+    "version":  "1.1.2",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.2/eyta-v1.1.2.zip"
 }
