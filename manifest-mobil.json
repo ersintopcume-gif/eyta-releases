@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "C9BC729D5FED951FF565B4183A59CFE85182180BD177BA25AFB533D275D046B3",
-    "build":  119,
-    "version":  "2.0",
-    "notes":  "Paket ekrani yeniden duzenlendi: dugmeler iki sirada (EKLE/DUZENLE/SIL/PAYLAS - BARKOD/KAYDET/SEVK), montor-tarih karti tek sirada ve katlanabilir, liste yazilari buyudu. Listeye ayrilan alan iki satirdan 6-7 satira cikti. Fotograf dugmesi kaldirildi."
+    "sha256":  "5F09FB77DE8E5C92573B0ABDE2C4BD9A797BFC09BA81C09DF7D5245A55707A7E",
+    "build":  120,
+    "version":  "2.1",
+    "notes":  "Paket ekrani: proje adi 16 punto, diger tum yazilar 11. Sekiz dugme iki sirada (EKLE/DUZENLE/SIL/BARKOD - KAYDET/SEVK/KAPAT/PAYLAS), hepsi ayni olcude 28 dp. Montor-baslangic-bitis tek sira. Tik kutusu 46 dp\u0027den 26\u0027ya indi, satir adimi 44\u0027ten 36 dp\u0027ye dustu - ekrana ~14 kalem siginiyor. KAPAT asamayi bitirir (montor zorunlu). Montor karti basliga dokununca acilir/kapanir, kapanirken kaydeder."
 }
