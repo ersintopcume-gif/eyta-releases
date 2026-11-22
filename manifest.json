@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-22",
-    "releaseNotes":  "Menu yeniden duzenlendi (urun yapisi tek baslikta, Satis ve Sevkiyat, Personel ve Yetki, MRP tek dugme); TAMAMLANAN sekmesi AKTIF ile ayni sutunlari gosteriyor ve artik AKTIF ile kesismiyor; MONTOR ve SURE kapali projede de dolu; yetki adlari menuyle eslesti; Raporlar grubu dolduruldu; montaj rengi koyulastirildi",
-    "version":  "1.1.6",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.6/eyta-v1.1.6.zip"
+    "releaseNotes":  "Montorler Proje Takibi\u0027nin altina alindi; personelde AD DUZENLE; personel yonetimi ekrani acilmiyordu duzeldi; SURE sutunu en son biten isin suresini yaziyor; rezerv serbest birakma tek yere alindi ve kalan paya gore yapiliyor; Stok Mutabakat Raporu acik rezervi kalan uzerinden hesapliyor",
+    "version":  "1.1.7",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.7/eyta-v1.1.7.zip"
 }
