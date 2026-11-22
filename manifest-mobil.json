@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "DFE84B7B4C7328A29127CE4447D7E4E5574537A187648FB7741AD59BBE7E2904",
-    "build":  122,
-    "version":  "2.3",
-    "notes":  "Proje listesi: musteri adi ve referans AYRI satirlarda - uzun adres musteri adini kesmiyor artik. Siparis no referansin tekrariysa yazilmiyor. Olculer HER ZAMAN mm: santim girilmis kayitlar (ray 154, halat 82) otomatik 1540/820 gosteriliyor."
+    "sha256":  "DFAB1316D54D9C8FA544EE4EB039C183F925CB6962608A2A144B937BA120CEB2",
+    "build":  123,
+    "version":  "2.4",
+    "notes":  "Asama renkleri masaustuyle esitlendi: ray kapi turkuaz, kapi kapama yavru agzi, askiya alma sari, montaj mavi. Yetki ekranindaki izin adlari menuyle eslesti; karsiligi kalmayan \u0027Siparis Menu\u0027 izni kaldirildi."
 }
