@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "217C372392AA78E5EB79AF94C486C1D342092E89F5F5FE0AF7DACC3784A2AAB6",
-    "build":  121,
-    "version":  "2.2",
-    "notes":  "Paket ekrani: ray adedi degistirilince ona bagli satirlar (flans, civata, somun) ANINDA yeniden hesaplaniyor - once KAYDET yapilmadan eski deger kaliyordu. Sifir/eksi miktarli satir artik SEVK EDILEMEZ (eksi miktar stogu dusurmek yerine artiriyordu). Proje listesi: kart sikistirildi, agirlik konumu (yandan/arkadan) ile ray, halat ve agirlik ray arasi olculeri listede gorunuyor."
+    "sha256":  "DFE84B7B4C7328A29127CE4447D7E4E5574537A187648FB7741AD59BBE7E2904",
+    "build":  122,
+    "version":  "2.3",
+    "notes":  "Proje listesi: musteri adi ve referans AYRI satirlarda - uzun adres musteri adini kesmiyor artik. Siparis no referansin tekrariysa yazilmiyor. Olculer HER ZAMAN mm: santim girilmis kayitlar (ray 154, halat 82) otomatik 1540/820 gosteriliyor."
 }
