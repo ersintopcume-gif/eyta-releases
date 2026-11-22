@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-22",
-    "releaseNotes":  "Satir renkleri asama basina ayrildi (ray kapi turkuaz, kapama yavru agzi, aski sari, montaj mavi); siralama ne olursa olsun montorlu isler ustte; asama kapatmayi geri al dugmesi; PANO/TOPLAR/KACIKLIK/MONTOR sutunlari kisaldi; Projeler ekrani MONTAJLI + AKTIF aciliyor",
-    "version":  "1.1.4",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.4/eyta-v1.1.4.zip"
+    "releaseNotes":  "Perakende satista fiyat ve cari harekete yaziliyor; Cari Satis Ozeti\u0027ne ciro sutunu; dort ekrana tazeleme; eski menuler kaldirildi (kabuk tek giris kapisi)",
+    "version":  "1.1.5",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.5/eyta-v1.1.5.zip"
 }
