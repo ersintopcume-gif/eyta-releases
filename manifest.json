@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-11-21",
-    "releaseNotes":  "Paket sablonlarinda satir referansli formuller (FLANS50*8), sayim ekraninda kategori suzgeci, stok karti silme engeli okunur hale geldi, yedi islem hatasi duzeltildi",
-    "version":  "1.0.95",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.95/eyta-v1.0.95.zip"
+    "releaseDate":  "2026-11-22",
+    "releaseNotes":  "Puantaj: gunluk saat girisi, aylik cizelge, devamsizlik cizelgesi. Isci maliyeti puantajdan hesaplaniyor (kisi bazli TL/saat). Ayarlar\u0027a Yetkiler ekrani geldi - yetki atama artik menuden ulasilabiliyor. Sifre sifirlamada ilk giris kodu gosteriliyor.",
+    "version":  "1.0.96",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.96/eyta-v1.0.96.zip"
 }
