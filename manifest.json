@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-22",
-    "releaseNotes":  "SATIS altina SIPARIS ekrani eklendi (en ustte). Siparis burada acilir, oradan MONTAJLI PROJE ya da PAKET SATIS olarak Projeler listesine duser. Sutunlar: siparis tarihi, musteri, asansor turu, agirlik yonu (yandan ise sag/sol), kapi toplar yonu, kaciklik, durak, kapasite, ray arasi, ray kapi arasi, halat arasi, ray duvar, agirlik ray arasi. Proses/montor takibi bu ekranda yok - o Projeler ekraninda. Olcusu girilmemis siparisler sari isaretli.",
-    "version":  "1.0.99",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.99/eyta-v1.0.99.zip"
+    "releaseNotes":  "SIPARIS ekrani ticari girise cevrildi: siparis tarihi, musteri, adres, asansor turu, yetkili, yetkili telefon, kaplama. Olculer ve durak/kapasite bu ekrandan kaldirildi - onlar PROJELER ekraninda doluyor. Projeler ekranina eksik olan dort sutun eklendi: RAY KAPI, RAY DUVAR, AG. RAY ARASI, KACIKLIK. Siparise isin kendi yetkilisi ve telefonu alanlari eklendi (cari kartindakinden ayri, bos ise cariden gosterilir).",
+    "version":  "1.1.0",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.0/eyta-v1.1.0.zip"
 }
