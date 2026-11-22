@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-22",
-    "releaseNotes":  "Perakende satista fiyat ve cari harekete yaziliyor; Cari Satis Ozeti\u0027ne ciro sutunu; dort ekrana tazeleme; eski menuler kaldirildi (kabuk tek giris kapisi)",
-    "version":  "1.1.5",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.5/eyta-v1.1.5.zip"
+    "releaseNotes":  "Menu yeniden duzenlendi (urun yapisi tek baslikta, Satis ve Sevkiyat, Personel ve Yetki, MRP tek dugme); TAMAMLANAN sekmesi AKTIF ile ayni sutunlari gosteriyor ve artik AKTIF ile kesismiyor; MONTOR ve SURE kapali projede de dolu; yetki adlari menuyle eslesti; Raporlar grubu dolduruldu; montaj rengi koyulastirildi",
+    "version":  "1.1.6",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.6/eyta-v1.1.6.zip"
 }
