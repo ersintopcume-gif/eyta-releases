@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-22",
-    "releaseNotes":  "SIPARIS IPTAL eklendi. Siparis SILINMIYOR, IPTAL olarak isaretleniyor - kayit duruyor ve geri alinabiliyor. Sevk edilmis malzeme varsa stoga iade edilip edilmeyecegi SORULUYOR (malzeme depoya donmus de olabilir, sahada kullanilmis da). Iptaller listede GORUNMUYOR, IPTALLER suzgecinden ulasiliyor; oradan secip geri alinabiliyor.",
-    "version":  "1.1.3",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.3/eyta-v1.1.3.zip"
+    "releaseNotes":  "Satir renkleri asama basina ayrildi (ray kapi turkuaz, kapama yavru agzi, aski sari, montaj mavi); siralama ne olursa olsun montorlu isler ustte; asama kapatmayi geri al dugmesi; PANO/TOPLAR/KACIKLIK/MONTOR sutunlari kisaldi; Projeler ekrani MONTAJLI + AKTIF aciliyor",
+    "version":  "1.1.4",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.1.4/eyta-v1.1.4.zip"
 }
