@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-22",
-    "releaseNotes":  "GUVENLIK: giris ekranindaki gomulu master sifre uc yerden kaldirildi (Uretim girisi, Personel girisi, sifreyi ekranda gosteren mesaj). Giris artik tek yoldan geciyor - hesap kilidi, deneme sayaci, aktiflik ve cihaz kontrolu dahil. Menu ilk kez yetkiyle suzuluyor. Geri alma sifresi giris sifresinden ayrildi. Sifresi unutulan hesap icin EYTA-Sifre-Kurtarma araci. Mobil tarafta bulunan eksi miktar sevki de engellendi.",
-    "version":  "1.0.97",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.97/eyta-v1.0.97.zip"
+    "releaseNotes":  "Olculer HER ZAMAN mm: santim girilmis kayitlar (ray arasi 154, halat arasi 82 gibi) artik 1540 / 820 gosteriliyor. Projeler listesi, paket ekrani ve Excel cikisi ayni kurali kullaniyor.",
+    "version":  "1.0.98",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.0.98/eyta-v1.0.98.zip"
 }
