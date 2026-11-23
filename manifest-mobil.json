@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "8329894BCB471B006EE9796B8B4A75BF30964420A2B12EFAE6DA8F860E722A08",
-    "build":  124,
-    "version":  "2.5",
-    "notes":  "Asansor Son Kontrol Formu eklendi: proje detayinda KONTROL FORMU ekrani; musteri, adres, montor, tarihler, durak, kapasite, agirlik yonu, tahrik tipi, kuyu olculeri, kapi olculeri, halat ve flexible metraji projeden dolu gelir; KAYDET formu projeye yazar."
+    "sha256":  "BAC1AE731DAECF19633CE08D49A3FDD5B701643160BC06E4BB85FAC3825E6FAD",
+    "build":  125,
+    "version":  "2.6",
+    "notes":  "Asansor Son Kontrol Formu mobilde: proje detayinda buton, proje bilgileri dolu gelir, KAYDET projeye yazar, marka listeleri formun icinden yonetilir. Proje listesinde asama rozeti (ray kapi / kapama / aski / montaj - devam ve bitti), renkler masaustuyle ayni."
 }
