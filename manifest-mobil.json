@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "0BAC1B51A4E01C408DA9CA2A6DF57857C97B4518EBE3A14967E860CC2C8A4AE5",
-    "build":  129,
-    "version":  "3.0",
-    "notes":  "EYTA logosu uygulama simgesi oldu; montajda/askida/ray kapida olan projeler listede hep en ustte; kontrol formunda CE OLUSTUR; KISMI-BEKLIYOR rozeti kalkti; paket miktarinda kayan nokta artigi duzeldi"
+    "sha256":  "E8966F098A8E58B8C7CB3F0550537044ACA963D45687D588D5878D22AC3D4119",
+    "build":  130,
+    "version":  "3.1",
+    "notes":  "Montor performans ekrani: kayit ekleme formu kalkti, ekran BITIRDIKLERI listesiyle aciliyor; duzenleme satira dokununca aciliyor"
 }
