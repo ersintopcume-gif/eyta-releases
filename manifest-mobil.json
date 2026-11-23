@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "0C4C9087E7D239FC0FF35590F8072E61B7A71A5EF4250D6A427C4018E6965510",
-    "build":  127,
-    "version":  "2.8",
-    "notes":  "Proje karti yenilendi: aktifler ustte, adres basligin yaninda, olculer buyuk harf, sevk orani isaretli satira gore, KISMI/BEKLIYOR uyarisi. Montor performansinda AKTIF/BITIRDIKLERI ve asama sekmeleri. Montorun cikis tarihleri artik mobile de dusuyor. Asansor son kontrol formu MONTAJ ekraninda 4. dugme."
+    "sha256":  "075AB7E827DA621EE311109D06D9FACE0676A09D4E124CF01A17B6339B3B5C66",
+    "build":  128,
+    "version":  "2.9",
+    "notes":  "Projeler listesinde KISMI/BEKLIYOR rozeti kalkti; montoru olan projeler en ustte, geri kalanlar eskiden yeniye; kontrol formunda CE OLUSTUR ile seri no; paket miktarinda kayan nokta artigi duzeldi"
 }
