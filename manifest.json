@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-23",
-    "releaseNotes":  "Montaj bilgileri foyu: Siparis ekranindaki YAZDIR butonu artik basili foy duzenini basiyor -- dikey sayfa, 12,5 mm satir, 18 satir, tek punto kalin yazi, mavi baslik. Siparis kartina Asansor Adedi ve Insaat Durumu alanlari eklendi.",
-    "version":  "1.2.1",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.1/eyta-v1.2.1.zip"
+    "releaseNotes":  "Asansor Son Kontrol Formu (uygulama icinde, projeye kaydeder, linkle de doldurulabilir), CE plakasi, puantajda kismi devamsizlik ve yillik izin, cizelgede devamsizlik saati sutunlari ve personel secimi, siparis no listede gorunuyor",
+    "version":  "1.2.2",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.2/eyta-v1.2.2.zip"
 }
