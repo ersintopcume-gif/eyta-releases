@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-24",
-    "releaseNotes":  "Hiz: bosta kalan baglanti kapanmiyor (katalog okumasi her 30 sn tekrarlaniyordu), oturum denetimi 5 dk, acilistaki 87 ALTER sema surumune baglandi, eksik indeksler, montor gorevlerinde tum tablo cekilmiyor",
-    "version":  "1.2.7",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.7/eyta-v1.2.7.zip"
+    "releaseNotes":  "CE yazdirma Windows yazdirma penceresinden: yazici, kagit ve yon surucuden seciliyor. Montaj ekranindaki EK MALZEME/SEVKLER satiri ve stok menusundeki Secenek Listeleri kaldirildi",
+    "version":  "1.2.8",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.8/eyta-v1.2.8.zip"
 }
