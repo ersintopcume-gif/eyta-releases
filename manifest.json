@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-24",
-    "releaseNotes":  "Luca stok koprusu: EYTA\u0027da dusen stok Luca\u0027ya belge olarak gidiyor (Stok Yonetimi \u003e Luca Stok Koprusu). Cari ekraninda Luca Cari Kodu alani. Formul sonuclarindaki kayan nokta artigi duzeldi.",
-    "version":  "1.2.4",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.4/eyta-v1.2.4.zip"
+    "releaseNotes":  "Luca entegrasyonu: Stok Koprusu (EYTA\u0027da dusen stok Luca\u0027ya belge olarak gider), Cari Eslestirme (Luca musteri kartlariyla eslestirme), Luca\u0027dan Cek (birim fiyat / satis fiyati / miktar ayri ayri secilebilir). Luca belgesine musteri adi yaziliyor.",
+    "version":  "1.2.5",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.5/eyta-v1.2.5.zip"
 }
