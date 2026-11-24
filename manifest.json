@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-24",
-    "releaseNotes":  "Regulator yeri dort secenek: SAG ON / SAG ARKA / SOL ON / SOL ARKA. Acilir liste degisince eski kayitlardaki deger artik silinmiyor",
-    "version":  "1.2.9",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.9/eyta-v1.2.9.zip"
+    "releaseNotes":  "CE plakasi basilan kagidin olcusunu aliyor (ikinci etikete tasma); puantajda 9 saat girmek sart degil, kayit yoksa tam gun sayiliyor; puantaj cizelgesi 55 sorgudan 6 sorguya indi",
+    "version":  "1.2.10",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.10/eyta-v1.2.10.zip"
 }
