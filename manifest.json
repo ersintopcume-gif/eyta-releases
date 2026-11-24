@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-24",
-    "releaseNotes":  "Montorden acilan paket bos gelmiyor (varyantli sablon); projenin butun sevk/ek malzemesi tek listede; saha ekipleri puantaji fabrikayla ayni ekranda ayri sekmede; mesai hucrede M ile ve ayri toplam sutununda",
-    "version":  "1.2.6",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.6/eyta-v1.2.6.zip"
+    "releaseNotes":  "Hiz: bosta kalan baglanti kapanmiyor (katalog okumasi her 30 sn tekrarlaniyordu), oturum denetimi 5 dk, acilistaki 87 ALTER sema surumune baglandi, eksik indeksler, montor gorevlerinde tum tablo cekilmiyor",
+    "version":  "1.2.7",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.7/eyta-v1.2.7.zip"
 }
