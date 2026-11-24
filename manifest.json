@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-24",
-    "releaseNotes":  "Puantaj renkleri: devamsiz kirmizi, izinli turuncu, yillik izin sari, rapor mavi. Makine motoru acilir listesi artik stok kartlarindan dolmuyor, yalniz eklenen markalar cikiyor",
-    "version":  "1.2.15",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.15/eyta-v1.2.15.zip"
+    "releaseNotes":  "Kismi devamsizlik/izin gunleri yesil gorunuyordu, artik tur rengini aliyor (devamsiz kirmizi, izin turuncu, yillik izin sari, rapor mavi). Mesai koyu yesil. GUNCELLE dugmesi de artik arka planda indiriyor, pencere acmiyor",
+    "version":  "1.2.16",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.16/eyta-v1.2.16.zip"
 }
