@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-24",
-    "releaseNotes":  "CE yazdirma: ust/alt yazilar ve kenar bosluklari kalkti, plaka etiketin kenarina yaslaniyor, yazici listesi geri geldi",
-    "version":  "1.2.11",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.11/eyta-v1.2.11.zip"
+    "releaseNotes":  "Puantaj disi tutulan servis hesaplari telefonda da gizli; CE yazdirma duzeltmeleri",
+    "version":  "1.2.12",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.12/eyta-v1.2.12.zip"
 }
