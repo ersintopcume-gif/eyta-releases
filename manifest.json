@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-24",
-    "releaseNotes":  "CE yazdirma Windows yazdirma penceresinden: yazici, kagit ve yon surucuden seciliyor. Montaj ekranindaki EK MALZEME/SEVKLER satiri ve stok menusundeki Secenek Listeleri kaldirildi",
-    "version":  "1.2.8",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.8/eyta-v1.2.8.zip"
+    "releaseNotes":  "Regulator yeri dort secenek: SAG ON / SAG ARKA / SOL ON / SOL ARKA. Acilir liste degisince eski kayitlardaki deger artik silinmiyor",
+    "version":  "1.2.9",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.9/eyta-v1.2.9.zip"
 }
