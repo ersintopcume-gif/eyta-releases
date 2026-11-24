@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "329E12B3902EA691DC49195E3622D34FB006D83A5CE53761EB324E0C3E5F68DB",
-    "build":  133,
-    "version":  "3.4",
-    "notes":  "Guncelleme arka planda sessizce iniyor ve koptugu yerden devam ediyor; yalniz kurulum soruluyor. Puantajda DEVAMSIZ ve IZIN icin baslangic-bitis saati; turler sadelesti (Devamsiz, Izin, Yillik Izin, Raporlu, Mesai)"
+    "sha256":  "2DF2185D4CBD5D28002BA38611662242429F54BD61A4F5A494F70DAD82B5B5CB",
+    "build":  134,
+    "version":  "3.5",
+    "notes":  "Puantajda kaydedildi onayi; devamsiz kirmizi, izinli turuncu, yillik izin sari, rapor mavi. Makine motoru listesi sadelesti. Guncelleme arka planda sessizce iniyor ve koptugu yerden devam ediyor"
 }
