@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-11-23",
-    "releaseNotes":  "Puantaj cizelgesinde tam gun devamsizlik kirmizi, kismi turuncu; devamsizlik saati molalardan etkilenmiyor. Montorun cikis tarihleri calisma kayitlarina isleniyor (mobilde aktif kalma sorunu).",
-    "version":  "1.2.3",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.3/eyta-v1.2.3.zip"
+    "releaseDate":  "2026-11-24",
+    "releaseNotes":  "Luca stok koprusu: EYTA\u0027da dusen stok Luca\u0027ya belge olarak gidiyor (Stok Yonetimi \u003e Luca Stok Koprusu). Cari ekraninda Luca Cari Kodu alani. Formul sonuclarindaki kayan nokta artigi duzeldi.",
+    "version":  "1.2.4",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.4/eyta-v1.2.4.zip"
 }
