@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "E8966F098A8E58B8C7CB3F0550537044ACA963D45687D588D5878D22AC3D4119",
-    "build":  130,
-    "version":  "3.1",
-    "notes":  "Montor performans ekrani: kayit ekleme formu kalkti, ekran BITIRDIKLERI listesiyle aciliyor; duzenleme satira dokununca aciliyor"
+    "sha256":  "524E4DF7BC2FF1C88EFD75344999BA54548B81687F88E1BECC6329FECFCA1963",
+    "build":  131,
+    "version":  "3.2",
+    "notes":  "Gunluk puantaj ekrani eklendi (yalniz devamsizlik/izin/rapor girilir, kayit yoksa tam gun sayilir); guncelleme ekran sonunce yarida kalmiyor; montor kartinda gorunur KAYDET dugmesi"
 }
