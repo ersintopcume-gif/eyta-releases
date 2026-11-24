@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "5C8F54D3FAB5C33B457FE834B870E831AA06EBA1B9F8438798C9DD7845BD509B",
-    "build":  132,
-    "version":  "3.3",
-    "notes":  "Gunluk puantaj ekrani (yalniz devamsizlik/izin/rapor girilir, kayit yoksa tam gun sayilir, saatlik devamsizlik var); servis hesaplari puantajda gizli; oturum 30 gun - her sabah sifre sorulmuyor; montor kartinda gorunur KAYDET; guncelleme ekran sonunce yarida kalmiyor; uygulama simgesi beyaz"
+    "sha256":  "329E12B3902EA691DC49195E3622D34FB006D83A5CE53761EB324E0C3E5F68DB",
+    "build":  133,
+    "version":  "3.4",
+    "notes":  "Guncelleme arka planda sessizce iniyor ve koptugu yerden devam ediyor; yalniz kurulum soruluyor. Puantajda DEVAMSIZ ve IZIN icin baslangic-bitis saati; turler sadelesti (Devamsiz, Izin, Yillik Izin, Raporlu, Mesai)"
 }
