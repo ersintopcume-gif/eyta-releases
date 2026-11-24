@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-24",
-    "releaseNotes":  "Yetkide okuma/yazma ayrimi (ana sekme + alt sekme, her biri ayri) ve yazma kilidi tum ekranlarda; aylik puantaj ciktisi; kismi devamsizlik gunu artik silmiyor; secenek listesine marka ekleme duzeldi; regulator/motor otomatik cekilmiyor, otomatik cek kutusu geldi; acilir liste oku buyutuldu; CIRAK gorevi; Paket Sablonlari Satis menusune tasindi",
-    "version":  "1.2.13",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.13/eyta-v1.2.13.zip"
+    "releaseNotes":  "Guncelleme artik sormadan arka planda iniyor ve program kapanirken kuruluyor - ekranda soru cikmiyor. Yetkiler kisinin kartinda (satira cift tik) ve satir basina tek acilir liste: yok / gorebilir / degistirebilir. Puantaj turleri sadelesti; bugun mesai bitiminden sonra tam gun sayiliyor; kismi devamsizlik gunu silmiyor. Aylik puantaj ciktisi. Acilir listede ok duzeldi, marka ekleme tum listelerde calisiyor",
+    "version":  "1.2.14",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.14/eyta-v1.2.14.zip"
 }
