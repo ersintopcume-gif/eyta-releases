@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-25",
-    "releaseNotes":  "BOM satirinda yari mamulun agirligi 0 cikiyordu. Yari mamulun kartinda kg/adet yazmaz, agirligi bilesenlerinden gelir; BOM satiri bunu hesaplamiyordu. Artik kart toplamiyla ayni sayiyi veriyor (SEPERATOR L KOSEBENT 0 yerine 0,105 kg).",
-    "version":  "1.2.27",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.27/eyta-v1.2.27.zip"
+    "releaseNotes":  "Bilesen ekleme kutusunda yari mamulun agirligi 0 cikiyordu. Yari mamulun kartinda kg/adet yazmaz, agirligi bilesenlerinden gelir; artik BOM\u0027dan hesaplaniyor ve basligda (BOM) diye isaretleniyor.",
+    "version":  "1.2.28",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.28/eyta-v1.2.28.zip"
 }
