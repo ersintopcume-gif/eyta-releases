@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-25",
-    "releaseNotes":  "Yetkisi olmayan sekme artik basligiyla birlikte gizleniyor: altinda gorunur satir kalmayan bolum (ornegin Personel ve Yetki) menude hic cikmiyor. MRP de kendi yetkisine baglandi.",
-    "version":  "1.2.18",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.18/eyta-v1.2.18.zip"
+    "releaseNotes":  "Arka planda inen guncellemenin yuzdesi artik baslik cubugunda gorunuyor (surum numarasinin yaninda). Indirme bitince ya da yoksa gizleniyor.",
+    "version":  "1.2.19",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.19/eyta-v1.2.19.zip"
 }
