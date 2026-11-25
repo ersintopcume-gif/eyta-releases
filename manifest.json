@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-25",
-    "releaseNotes":  "Urun Agaci artik acilista listeyi tazeliyor: Stok Kartlari uzerinden yapilan kategori degisikligi (ornegin YARI MAMUL -\u003e MAMUL) uygulama kapatilmadan goruluyor. Montorler ekrani icin de ayni duzeltme. Ayrica Urun Agacina MAMUL EKLE dugmesi eklendi; eskiden mamul ancak yari mamul acip kategorisini degistirerek yapilabiliyordu.",
-    "version":  "1.2.22",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.22/eyta-v1.2.22.zip"
+    "releaseNotes":  "Stok kartindaki Standart Maliyet Dokumu 0,00 TL cikiyordu: parcanin sac maliyeti hic sayilmiyordu. Parcanin BOM u olmadigi icin maliyet motoru bos donuyordu. Artik parcanin kendi malzemesi (sac fiyati x kg x fire) dokume giriyor; MUH-MM-15 icin 176,67 TL - Urun Agaci ile ayni.",
+    "version":  "1.2.23",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.23/eyta-v1.2.23.zip"
 }
