@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-11-25",
-    "releaseNotes":  "Bilesen ekleme kutusunda yari mamulun agirligi 0 cikiyordu. Yari mamulun kartinda kg/adet yazmaz, agirligi bilesenlerinden gelir; artik BOM\u0027dan hesaplaniyor ve basligda (BOM) diye isaretleniyor.",
-    "version":  "1.2.28",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.28/eyta-v1.2.28.zip"
+    "releaseDate":  "2026-11-26",
+    "releaseNotes":  "Stok kartinda ondalik sayi yazilamiyordu (alis fiyati dahil 12 alan) - duzeldi.\nSayilar Turkce bicimde: 3.910,92 TL.\nUretim emri ara kademeyi atliyordu, zincir kopuyordu - her kademe kendi emrini aliyor.\nAra kademe stokta varsa rezerve ediliyor, yeniden uretilmiyor.\nKonfiguratorde test siparisi secilince siparisin olculeri okunmuyordu - duzeldi.\nVaryant kurallari uretimde devreye girdi, saft alanina baglaniyor.\nStok Partileri ekrani: tek kart, icinde olcu/tip/yon dokumu.\nCevrimici personel gorunuyor.",
+    "version":  "1.2.29",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.29/eyta-v1.2.29.zip"
 }
