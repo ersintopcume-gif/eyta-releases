@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-25",
-    "releaseNotes":  "Stok kartindaki Standart Maliyet Dokumu 0,00 TL cikiyordu: parcanin sac maliyeti hic sayilmiyordu. Parcanin BOM u olmadigi icin maliyet motoru bos donuyordu. Artik parcanin kendi malzemesi (sac fiyati x kg x fire) dokume giriyor; MUH-MM-15 icin 176,67 TL - Urun Agaci ile ayni.",
-    "version":  "1.2.23",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.23/eyta-v1.2.23.zip"
+    "releaseNotes":  "Guncelleme artik kendiliginden basliyor: uygulama acikken de 10 dakikada bir bakiyor, GUNCELLE demeye gerek kalmiyor. Paket ekranlarinin ust bilgisine PANO TURU eklendi. Secenek Listeleri ekranina Makine Motoru Marka-Model grubu ve kendi listeni acabilmen icin + YENI GRUP dugmesi geldi.",
+    "version":  "1.2.24",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.24/eyta-v1.2.24.zip"
 }
