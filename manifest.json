@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-25",
-    "releaseNotes":  "Guncelleme artik kendiliginden basliyor: uygulama acikken de 10 dakikada bir bakiyor, GUNCELLE demeye gerek kalmiyor. Paket ekranlarinin ust bilgisine PANO TURU eklendi. Secenek Listeleri ekranina Makine Motoru Marka-Model grubu ve kendi listeni acabilmen icin + YENI GRUP dugmesi geldi.",
-    "version":  "1.2.24",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.24/eyta-v1.2.24.zip"
+    "releaseNotes":  "Yetki duzeltmesi: ana sekmeye gorebilir vermek artik altindaki butun satirlari aciyor. Once yalniz yazma yetkisi ana sekmeden miras aliyordu; gorme almiyordu ve sekme verilmis ama alt kutulari isaretlenmemis kullanici hicbir satiri goremiyordu.",
+    "version":  "1.2.25",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.25/eyta-v1.2.25.zip"
 }
