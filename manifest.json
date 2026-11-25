@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-25",
-    "releaseNotes":  "Yetki duzeltmesi: yetki ekraninda isaretli olan menu satirlari (Montorler, Musteriler, Tedarikciler, Siparis Girisi, Proje Takibi, Revizyon, Stok Durumu, Stok Mutabakati, Paket Sablonlari) artik gercekten goruntuleniyor. Siparisler ekraninda TAMAMLANAN suzgeci, islem dugmeleri sag altta, satis turu DUZENLE penceresinde.",
-    "version":  "1.2.17",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.17/eyta-v1.2.17.zip"
+    "releaseNotes":  "Yetkisi olmayan sekme artik basligiyla birlikte gizleniyor: altinda gorunur satir kalmayan bolum (ornegin Personel ve Yetki) menude hic cikmiyor. MRP de kendi yetkisine baglandi.",
+    "version":  "1.2.18",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.18/eyta-v1.2.18.zip"
 }
