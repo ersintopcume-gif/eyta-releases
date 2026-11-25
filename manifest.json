@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-25",
-    "releaseNotes":  "Yetki duzeltmesi: ana sekmeye gorebilir vermek artik altindaki butun satirlari aciyor. Once yalniz yazma yetkisi ana sekmeden miras aliyordu; gorme almiyordu ve sekme verilmis ama alt kutulari isaretlenmemis kullanici hicbir satiri goremiyordu.",
-    "version":  "1.2.25",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.25/eyta-v1.2.25.zip"
+    "releaseNotes":  "Yetki ekrani yeniden duzenlendi: her ana sekme ve alt sekmenin yaninda VAR / OKUMA / ISLEM YETKISI kutulari var. Alttaki ayri islem yetkileri listesi kalkti; her islem yetkisi ait oldugu satirin ISLEM YETKISI kutusundan veriliyor.",
+    "version":  "1.2.26",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.26/eyta-v1.2.26.zip"
 }
