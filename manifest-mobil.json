@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "0D5C0F87DA7C6306763B8C0C127690D0209DFA4E71783B691E645D1187498EF1",
-    "build":  138,
-    "version":  "3.9",
-    "notes":  "Yetki duzeltmesi: yetki ekraninda isaretli oldugu halde telefonda cikmayan MONTOR, REVIZYON ve MUSTERI/TEDARIKCI kartlari artik goruluyor. (3.7 ve 3.8 paketleri yanlislikla 3.6 derlemesiyle cikmisti; bu yuzden guncelleme uyarisi surekli tekrarliyordu.)"
+    "sha256":  "8B681CC2F8275CF3322C6919E6768630A4BEC4421728D5A2C8EBC40F74305602",
+    "build":  139,
+    "version":  "4.0",
+    "notes":  "Yazma yetkisi artik mobilde de gecerli: yetki ekraninda OKUMA secilen ekranda telefondan degisiklik yapilamiyor. Sekme adlari ana uygulamayla esitlendi (Stok Kartlari, Stok Hareketleri, Proje Takibi, Montorler, Musteriler ve Tedarikciler, Uretim Emri)."
 }
