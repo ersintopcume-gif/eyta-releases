@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
     "sha256":  "9655F78E9AC5FC3EC370246B6C3A5ACB2F430B3A9364B65B561EF6D75A6E6FDA",
-    "build":  135,
-    "version":  "3.6",
-    "notes":  "Puantaj renkleri masaustuyle ayni: devamsiz kirmizi, izinli turuncu, yillik izin sari, rapor mavi. Kaydedildi onayi ve KAYDET dugmesi"
+    "build":  136,
+    "version":  "3.7",
+    "notes":  "Yetki duzeltmesi: yetki ekraninda isaretli oldugu halde telefonda cikmayan MONTOR, REVIZYON ve MUSTERI/TEDARIKCI kartlari artik goruluyor. Menu eski ve yeni yetki kodlarinin ikisini de kabul ediyor."
 }
