@@ -1,6 +1,6 @@
 {
-    "releaseDate":  "2026-11-24",
-    "releaseNotes":  "Kismi devamsizlik/izin gunleri yesil gorunuyordu, artik tur rengini aliyor (devamsiz kirmizi, izin turuncu, yillik izin sari, rapor mavi). Mesai koyu yesil. GUNCELLE dugmesi de artik arka planda indiriyor, pencere acmiyor",
-    "version":  "1.2.16",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.16/eyta-v1.2.16.zip"
+    "releaseDate":  "2026-11-25",
+    "releaseNotes":  "Yetki duzeltmesi: yetki ekraninda isaretli olan menu satirlari (Montorler, Musteriler, Tedarikciler, Siparis Girisi, Proje Takibi, Revizyon, Stok Durumu, Stok Mutabakati, Paket Sablonlari) artik gercekten goruntuleniyor. Siparisler ekraninda TAMAMLANAN suzgeci, islem dugmeleri sag altta, satis turu DUZENLE penceresinde.",
+    "version":  "1.2.17",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.17/eyta-v1.2.17.zip"
 }
