@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/ersintopcume-gif/eyta-releases/main/EYTA-StokTakibi.apk",
-    "sha256":  "3C78E8BD6161BA4AB1CC42BEFDCF3067069E7D30918621D0D99C016696ABEBAF",
-    "build":  137,
-    "version":  "3.8",
-    "notes":  "Yetki duzeltmesi: yetki ekraninda isaretli oldugu halde telefonda cikmayan MONTOR, REVIZYON ve MUSTERI/TEDARIKCI kartlari artik goruluyor. 3.7 paketi yanlislikla eski derlemeyle cikmisti."
+    "sha256":  "0D5C0F87DA7C6306763B8C0C127690D0209DFA4E71783B691E645D1187498EF1",
+    "build":  138,
+    "version":  "3.9",
+    "notes":  "Yetki duzeltmesi: yetki ekraninda isaretli oldugu halde telefonda cikmayan MONTOR, REVIZYON ve MUSTERI/TEDARIKCI kartlari artik goruluyor. (3.7 ve 3.8 paketleri yanlislikla 3.6 derlemesiyle cikmisti; bu yuzden guncelleme uyarisi surekli tekrarliyordu.)"
 }
