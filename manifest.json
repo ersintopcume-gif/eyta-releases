@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-26",
-    "releaseNotes":  "Stok kartinda ondalik sayi yazilamiyordu (alis fiyati dahil 12 alan) - duzeldi.\nSayilar Turkce bicimde: 3.910,92 TL.\nUretim emri ara kademeyi atliyordu, zincir kopuyordu - her kademe kendi emrini aliyor.\nAra kademe stokta varsa rezerve ediliyor, yeniden uretilmiyor.\nKonfiguratorde test siparisi secilince siparisin olculeri okunmuyordu - duzeldi.\nVaryant kurallari uretimde devreye girdi, saft alanina baglaniyor.\nStok Partileri ekrani: tek kart, icinde olcu/tip/yon dokumu.\nCevrimici personel gorunuyor.",
-    "version":  "1.2.29",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.29/eyta-v1.2.29.zip"
+    "releaseNotes":  "Varyant Kurallari ve Stok Partileri ekranlari yeniden acilinca tazeleniyor; eski/silinmis ozellikler gorunuyordu. Ozellik kaydedince secim kaybolmuyor, kaydedilen kayit secili kaliyor. Listeden bir ozellige tiklamak formu da yukluyor; vurgulu satir ile formdaki kayit ayri dusuyordu. Varyant ekranindaki saft alani etiketi duzeltildi: secilmezse deger formul ciktisindan okunur.",
+    "version":  "1.2.30",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.30/eyta-v1.2.30.zip"
 }
