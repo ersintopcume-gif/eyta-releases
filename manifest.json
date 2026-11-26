@@ -1,6 +1,6 @@
 {
     "releaseDate":  "2026-11-26",
-    "releaseNotes":  "Varyant Kurallari ve Stok Partileri ekranlari yeniden acilinca tazeleniyor; eski/silinmis ozellikler gorunuyordu. Ozellik kaydedince secim kaybolmuyor, kaydedilen kayit secili kaliyor. Listeden bir ozellige tiklamak formu da yukluyor; vurgulu satir ile formdaki kayit ayri dusuyordu. Varyant ekranindaki saft alani etiketi duzeltildi: secilmezse deger formul ciktisindan okunur.",
-    "version":  "1.2.30",
-    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.30/eyta-v1.2.30.zip"
+    "releaseNotes":  "Stok kartina PARTILER sekmesi eklendi. Istasyon kuyrugu basarisiz islemi tamamlandi diye gosteriyordu. Siparise tahsis rezervi partiyi tasimiyordu.",
+    "version":  "1.2.31",
+    "downloadUrl":  "https://github.com/ersintopcume-gif/eyta-releases/releases/download/v1.2.31/eyta-v1.2.31.zip"
 }
